@@ -1,0 +1,782 @@
+Início em 2024-10-24 13:29:46.135522
+Equipamento 0020013394: Tempo de envio 0:00:37.221986: Última captura na hora 2024-10-24 12:26:53: Tempo desde a última captura 0:02:53.696631.
+Equipamento 0020013395: Tempo de envio 0:00:41.913791: Última captura na hora 2024-10-24 12:27:37: Tempo desde a última captura 0:02:09.704729.
+Equipamento 0020016995: Pasta da hora inexistente.
+Equipamento 0020016996: Tempo de envio 0:08:50.785483: Última captura na hora 2024-10-24 12:20:45: Tempo desde a última captura 0:09:01.713741.
+Equipamento 0020016997: Tempo de envio 0:00:09.081462: Última captura na hora 2024-10-24 12:29:32: Tempo desde a última captura 0:00:14.722845.
+Equipamento 0020026997: Tempo de envio 0:00:12.293689: Última captura na hora 2024-10-24 12:28:32: Tempo desde a última captura 0:01:14.731838.
+Equipamento 0020016998: Tempo de envio 0:00:21.106616: Última captura na hora 2024-10-24 12:24:33: Tempo desde a última captura 0:05:13.735838.
+Equipamento 0020026998: Tempo de envio 0:00:11.097462: Última captura na hora 2024-10-24 12:29:30: Tempo desde a última captura 0:00:16.741930.
+Equipamento 0020016999: Tempo de envio 0:00:40.949563: Última captura na hora 2024-10-24 12:28:35: Tempo desde a última captura 0:01:11.747940.
+Equipamento 0020026999: Pasta da hora inexistente.
+Equipamento 0020013600: Tempo de envio 0:00:15.266276: Última captura na hora 2024-10-24 12:26:03: Tempo desde a última captura 0:03:43.764048.
+Equipamento 0020013601: Tempo de envio 0:00:06.757515: Última captura na hora 2024-10-24 12:29:21: Tempo desde a última captura 0:00:25.776157.
+Equipamento 0020013624: Tempo de envio 0:00:13.057490: Última captura na hora 2024-10-24 12:29:21: Tempo desde a última captura 0:00:25.783271.
+Equipamento 0020013625: Tempo de envio 0:00:21.941791: Última captura na hora 2024-10-24 12:27:57: Tempo desde a última captura 0:01:49.788261.
+Equipamento 0020015000: Tempo de envio 0:00:08.949451: Última captura na hora 2024-10-24 12:29:35: Tempo desde a última captura 0:00:11.805378.
+Equipamento 0020015001: Pasta da hora inexistente.
+Equipamento 0020013613: Tempo de envio 0:00:09.485609: Última captura na hora 2024-10-24 12:28:55: Tempo desde a última captura 0:00:51.818616.
+Equipamento 0020013614: Tempo de envio 0:00:07.594476: Última captura na hora 2024-10-24 12:25:21: Tempo desde a última captura 0:04:25.828613.
+Equipamento 0020015002: Pasta da hora inexistente.
+Equipamento 0020015003: Tempo de envio 0:00:10.877535: Última captura na hora 2024-10-24 12:29:12: Tempo desde a última captura 0:00:34.838708.
+Equipamento 0020017022: Tempo de envio 0:00:08.001455: Última captura na hora 2024-10-24 12:29:35: Tempo desde a última captura 0:00:11.850865.
+Equipamento 0020017023: Tempo de envio 0:00:09.605592: Última captura na hora 2024-10-24 12:28:59: Tempo desde a última captura 0:00:47.865087.
+Equipamento 0020017024: Tempo de envio 0:00:07.761511: Última captura na hora 2024-10-24 12:29:21: Tempo desde a última captura 0:00:25.876089.
+Equipamento 0020017025: Tempo de envio 0:00:08.053470: Última captura na hora 2024-10-24 12:29:31: Tempo desde a última captura 0:00:15.891089.
+Equipamento 0020013610: Pasta da hora inexistente.
+Equipamento 0020023610: Pasta da hora inexistente.
+Equipamento 0020013615: Tempo de envio 0:00:09.845535: Última captura na hora 2024-10-24 12:29:13: Tempo desde a última captura 0:00:33.901168.
+Equipamento 0020013616: Tempo de envio 0:00:10.905515: Última captura na hora 2024-10-24 12:29:17: Tempo desde a última captura 0:00:29.911376.
+Equipamento 0020013617: Tempo de envio 0:00:09.073959: Última captura na hora 2024-10-24 12:27:28: Tempo desde a última captura 0:02:18.916375.
+Equipamento 0020023617: Tempo de envio 0:00:10.413966: Última captura na hora 2024-10-24 12:27:25: Tempo desde a última captura 0:02:21.922376.
+Equipamento 0020015004: Pasta da hora inexistente.
+Equipamento 0020025004: Pasta da hora inexistente.
+Equipamento 0020015005: Pasta da hora inexistente.
+Equipamento 0020025005: Pasta da hora inexistente.
+Equipamento 0020013622: Tempo de envio 0:00:09.510291: Última captura na hora 2024-10-24 12:26:05: Tempo desde a última captura 0:03:41.933546.
+Equipamento 0020013623: Tempo de envio 0:00:09.581568: Última captura na hora 2024-10-24 12:29:05: Tempo desde a última captura 0:00:41.944634.
+Equipamento 0020013629: Tempo de envio 0:00:17.917527: Última captura na hora 2024-10-24 12:29:07: Tempo desde a última captura 0:00:39.949633.
+Equipamento 0020013630: Tempo de envio 0:00:19.997471: Última captura na hora 2024-10-24 12:29:19: Tempo desde a última captura 0:00:27.954634.
+Equipamento 0020013626: Tempo de envio 0:00:10.625548: Última captura na hora 2024-10-24 12:29:09: Tempo desde a última captura 0:00:37.959727.
+Equipamento 0020013627: Tempo de envio 0:00:14.566114: Última captura na hora 2024-10-24 12:26:44: Tempo desde a última captura 0:03:02.963810.
+Equipamento 0020013628: Tempo de envio 0:00:10.797463: Última captura na hora 2024-10-24 12:29:30: Tempo desde a última captura 0:00:16.970953.
+Equipamento 0020013608: Pasta da hora inexistente.
+Equipamento 0020023608: Pasta da hora inexistente.
+Equipamento 0020013609: Pasta da hora inexistente.
+Equipamento 0020013620: Tempo de envio 0:00:11.309453: Última captura na hora 2024-10-24 12:29:32: Tempo desde a última captura 0:00:14.981026.
+Equipamento 0020013621: Tempo de envio 0:00:08.881563: Última captura na hora 2024-10-24 12:29:07: Tempo desde a última captura 0:00:39.987037.
+Equipamento 0020013602: Tempo de envio 0:00:07.861495: Última captura na hora 2024-10-24 12:29:25: Tempo desde a última captura 0:00:21.994028.
+Equipamento 0020013603: Tempo de envio 0:00:09.957531: Última captura na hora 2024-10-24 12:29:14: Tempo desde a última captura 0:00:33.002286.
+Equipamento 0020013604: Tempo de envio 0:00:10.753540: Última captura na hora 2024-10-24 12:29:11: Tempo desde a última captura 0:00:36.009277.
+Equipamento 0020013605: Tempo de envio 0:00:19.242558: Última captura na hora 2024-10-24 12:24:49: Tempo desde a última captura 0:04:58.015280.
+Equipamento 0020013618: Tempo de envio 0:00:06.765535: Última captura na hora 2024-10-24 12:29:16: Tempo desde a última captura 0:00:31.024280.
+Equipamento 0020013619: Tempo de envio 0:00:11.877563: Última captura na hora 2024-10-24 12:29:04: Tempo desde a última captura 0:00:43.032280.
+Equipamento 0020015008: Tempo de envio 0:00:09.033803: Última captura na hora 2024-10-24 12:28:07: Tempo desde a última captura 0:01:40.039368.
+Equipamento 0020015009: Tempo de envio 0:00:09.001471: Última captura na hora 2024-10-24 12:29:30: Tempo desde a última captura 0:00:17.044891.
+Equipamento 0020013631: Tempo de envio 0:00:12.174023: Última captura na hora 2024-10-24 12:27:09: Tempo desde a última captura 0:02:38.048999.
+Equipamento 0020013632: Tempo de envio 0:00:08.977495: Última captura na hora 2024-10-24 12:29:24: Tempo desde a última captura 0:00:23.054995.
+Equipamento 0020013606: Tempo de envio 0:00:12.993719: Última captura na hora 2024-10-24 12:28:24: Tempo desde a última captura 0:01:23.064119.
+Equipamento 0020013607: Tempo de envio 0:00:09.037458: Última captura na hora 2024-10-24 12:29:33: Tempo desde a última captura 0:00:14.078120.
+Equipamento 0020013611: Tempo de envio 0:00:09.700222: Última captura na hora 2024-10-24 12:18:13: Tempo desde a última captura 0:11:34.082215.
+Equipamento 0020023611: Tempo de envio 0:00:15.185450: Última captura na hora 2024-10-24 12:29:29: Tempo desde a última captura 0:00:18.089218.
+Equipamento 0020013612: Tempo de envio 0:02:55.337673: Última captura na hora 2024-10-24 12:25:53: Tempo desde a última captura 0:03:54.100301.
+Equipamento 0020023612: Tempo de envio 0:02:58.501621: Última captura na hora 2024-10-24 12:26:03: Tempo desde a última captura 0:03:44.107301.
+Equipamento 0020016031: Tempo de envio 0:00:08.173466: Última captura na hora 2024-10-24 12:29:32: Tempo desde a última captura 0:00:15.118503.
+Equipamento 0020016032: Tempo de envio 0:00:11.569917: Última captura na hora 2024-10-24 12:27:36: Tempo desde a última captura 0:02:11.127504.
+Equipamento 0020015010: Pasta da hora inexistente.
+Equipamento 0020015011: Tempo de envio 0:00:20.185478: Última captura na hora 2024-10-24 12:29:17: Tempo desde a última captura 0:00:30.139758.
+Equipamento 0020017026: Tempo de envio 0:00:12.249670: Última captura na hora 2024-10-24 12:28:37: Tempo desde a última captura 0:01:10.144759.
+Equipamento 0020017027: Tempo de envio 0:00:15.921988: Última captura na hora 2024-10-24 12:27:14: Tempo desde a última captura 0:02:33.720391.
+Equipamento 0020017028: Tempo de envio 0:00:11.837507: Última captura na hora 2024-10-24 12:29:18: Tempo desde a última captura 0:00:29.726402.
+Equipamento 0020017029: Tempo de envio 0:00:10.089598: Última captura na hora 2024-10-24 12:28:57: Tempo desde a última captura 0:00:50.734512.
+Equipamento 0020017030: Tempo de envio 0:00:09.633520: Última captura na hora 2024-10-24 12:29:17: Tempo desde a última captura 0:00:30.740589.
+Equipamento 0020017031: Tempo de envio 0:00:11.841459: Última captura na hora 2024-10-24 12:29:30: Tempo desde a última captura 0:00:17.744731.
+Equipamento 0020013728: Tempo de envio 0:00:08.833475: Última captura na hora 2024-10-24 12:29:29: Tempo desde a última captura 0:00:18.884213.
+Equipamento 0020013729: Tempo de envio 0:00:11.149450: Última captura na hora 2024-10-24 12:29:33: Tempo desde a última captura 0:00:14.893465.
+Equipamento 0020015012: Pasta da hora inexistente.
+Equipamento 0020015013: Tempo de envio 0:00:24.797796: Última captura na hora 2024-10-24 12:27:53: Tempo desde a última captura 0:01:54.904586.
+Equipamento 0020017020: Tempo de envio 0:00:08.821503: Última captura na hora 2024-10-24 12:29:22: Tempo desde a última captura 0:00:25.910679.
+Equipamento 0020027020: Tempo de envio 0:00:12.361497: Última captura na hora 2024-10-24 12:29:20: Tempo desde a última captura 0:00:28.808128.
+Equipamento 0020017021: Tempo de envio 0:00:11.089462: Última captura na hora 2024-10-24 12:29:30: Tempo desde a última captura 0:00:18.816298.
+Equipamento 0020027021: Tempo de envio 0:00:10.049470: Última captura na hora 2024-10-24 12:29:29: Tempo desde a última captura 0:00:19.867273.
+Equipamento 0020013727: Pasta da hora inexistente.
+Equipamento 0020023727: Pasta da hora inexistente.
+Equipamento 0020013730: Tempo de envio 0:00:13.769483: Última captura na hora 2024-10-24 12:29:22: Tempo desde a última captura 0:00:26.875375.
+Equipamento 0020013731: Tempo de envio 0:00:10.461977: Última captura na hora 2024-10-24 12:27:22: Tempo desde a última captura 0:02:26.887545.
+Equipamento 0020013725: Tempo de envio 0:00:13.641560: Última captura na hora 2024-10-24 12:29:03: Tempo desde a última captura 0:00:45.891540.
+Equipamento 0020023725: Tempo de envio 0:00:13.881447: Última captura na hora 2024-10-24 12:29:31: Tempo desde a última captura 0:00:17.897540.
+Equipamento 0020015018: Tempo de envio 0:00:08.249497: Última captura na hora 2024-10-24 12:29:24: Tempo desde a última captura 0:00:24.903726.
+Equipamento 0020015019: Tempo de envio 0:00:09.769535: Última captura na hora 2024-10-24 12:29:13: Tempo desde a última captura 0:00:35.911837.
+Equipamento 0020015016: Tempo de envio 0:00:17.559428: Última captura na hora 2024-10-24 12:21:17: Tempo desde a última captura 0:08:31.921066.
+Equipamento 0020015017: Tempo de envio 0:00:18.201710: Última captura na hora 2024-10-24 12:28:21: Tempo desde a última captura 0:01:27.926069.
+Equipamento 0020015020: Tempo de envio 0:00:10.045442: Última captura na hora 2024-10-24 12:29:36: Tempo desde a última captura 0:00:12.941374.
+Equipamento 0020015021: Tempo de envio 0:00:10.353673: Última captura na hora 2024-10-24 12:28:38: Tempo desde a última captura 0:01:10.972005.
+Equipamento 0020015022: Pasta da hora inexistente.
+Equipamento 0020025022: Pasta da hora inexistente.
+Equipamento 0020015069: Tempo de envio 0:00:07.841507: Última captura na hora 2024-10-24 12:29:22: Tempo desde a última captura 0:00:27.002440.
+Equipamento 0020025069: Tempo de envio 0:00:08.845507: Última captura na hora 2024-10-24 12:29:21: Tempo desde a última captura 0:00:28.018818.
+Equipamento 0020015063: Tempo de envio 0:00:10.629520: Última captura na hora 2024-10-24 12:29:16: Tempo desde a última captura 0:00:33.030947.
+Equipamento 0020015064: Tempo de envio 0:00:18.401653: Última captura na hora 2024-10-24 12:28:35: Tempo desde a última captura 0:01:14.039946.
+Equipamento 0020016930: Tempo de envio 0:00:08.781780: Última captura na hora 2024-10-24 12:28:13: Tempo desde a última captura 0:01:36.053316.
+Equipamento 0020016931: Tempo de envio 0:00:08.841459: Última captura na hora 2024-10-24 12:29:33: Tempo desde a última captura 0:00:16.065559.
+Equipamento 0020016932: Tempo de envio 0:00:09.781539: Última captura na hora 2024-10-24 12:29:12: Tempo desde a última captura 0:00:37.072536.
+Equipamento 0020016933: Tempo de envio 0:00:09.273665: Última captura na hora 2024-10-24 12:28:41: Tempo desde a última captura 0:01:08.083682.
+Equipamento 0020016934: Tempo de envio 0:00:08.081490: Última captura na hora 2024-10-24 12:29:26: Tempo desde a última captura 0:00:23.098793.
+Equipamento 0020016935: Tempo de envio 0:00:11.437681: Última captura na hora 2024-10-24 12:28:35: Tempo desde a última captura 0:01:14.113983.
+Equipamento 0020016936: Tempo de envio 0:00:07.573620: Última captura na hora 2024-10-24 12:28:54: Tempo desde a última captura 0:00:55.124103.
+Equipamento 0020016937: Tempo de envio 0:00:10.945527: Última captura na hora 2024-10-24 12:29:14: Tempo desde a última captura 0:00:35.133211.
+Equipamento 0020015047: Tempo de envio 0:00:14.557917: Última captura na hora 2024-10-24 12:27:33: Tempo desde a última captura 0:02:16.139348.
+Equipamento 0020015048: Tempo de envio 0:00:10.641548: Última captura na hora 2024-10-24 12:29:09: Tempo desde a última captura 0:00:40.145464.
+Equipamento 0020016938: Tempo de envio 0:00:15.173995: Última captura na hora 2024-10-24 12:27:13: Tempo desde a última captura 0:02:36.149453.
+Equipamento 0020016939: Tempo de envio 0:00:12.617552: Última captura na hora 2024-10-24 12:29:06: Tempo desde a última captura 0:00:43.155455.
+Equipamento 0020016993: Tempo de envio 0:00:07.673636: Última captura na hora 2024-10-24 12:28:50: Tempo desde a última captura 0:00:59.938783.
+Equipamento 0020016994: Tempo de envio 0:00:09.673636: Última captura na hora 2024-10-24 12:28:48: Tempo desde a última captura 0:01:01.945897.
+Equipamento 0020016928: Tempo de envio 0:00:07.985531: Última captura na hora 2024-10-24 11:29:16: Tempo desde a última captura 0:00:33.952998.
+Equipamento 0020026928: Tempo de envio 0:00:14.449617: Última captura na hora 2024-10-24 11:28:48: Tempo desde a última captura 0:01:01.959096.
+Equipamento 0020011889: Tempo de envio 0:00:09.149466: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:18.982724.
+Equipamento 0020011890: Tempo de envio 0:00:08.733527: Última captura na hora 2024-10-24 13:29:16: Tempo desde a última captura 0:00:34.001042.
+Equipamento 0020011887: Tempo de envio 0:00:08.897735: Última captura na hora 2024-10-24 13:28:24: Tempo desde a última captura 0:01:26.005041.
+Equipamento 0020011888: Tempo de envio 0:00:09.845487: Última captura na hora 2024-10-24 13:29:25: Tempo desde a última captura 0:00:25.010040.
+Equipamento 0020011895: Tempo de envio 0:00:08.149466: Última captura na hora 2024-10-24 13:29:32: Tempo desde a última captura 0:00:18.030041.
+Equipamento 0020011896: Tempo de envio 0:00:07.785507: Última captura na hora 2024-10-24 13:29:22: Tempo desde a última captura 0:00:28.039053.
+Equipamento 0020011938: Tempo de envio 0:00:06.857495: Última captura na hora 2024-10-24 13:29:26: Tempo desde a última captura 0:00:24.053051.
+Equipamento 0020021938: Tempo de envio 0:00:10.225442: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:14.077046.
+Equipamento 0020011939: Tempo de envio 0:00:07.825475: Última captura na hora 2024-10-24 13:29:30: Tempo desde a última captura 0:00:20.135125.
+Equipamento 0020021939: Tempo de envio 0:00:09.733804: Última captura na hora 2024-10-24 13:28:06: Tempo desde a última captura 0:01:44.148141.
+Equipamento 0020011940: Tempo de envio 0:00:08.857495: Última captura na hora 2024-10-24 13:29:24: Tempo desde a última captura 0:00:26.155133.
+Equipamento 0020021940: Tempo de envio 0:00:07.225442: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:11.165474.
+Equipamento 0020011891: Tempo de envio 0:00:11.601572: Última captura na hora 2024-10-24 13:29:02: Tempo desde a última captura 0:00:48.171617.
+Equipamento 0020021891: Tempo de envio 0:00:15.001727: Última captura na hora 2024-10-24 13:28:20: Tempo desde a última captura 0:01:30.175627.
+Equipamento 0020011892: Tempo de envio 0:00:13.177674: Última captura na hora 2024-10-24 13:28:35: Tempo desde a última captura 0:01:15.181765.
+Equipamento 0020021892: Tempo de envio 0:00:07.181995: Última captura na hora 2024-10-24 13:27:21: Tempo desde a última captura 0:02:29.189884.
+Equipamento 0020011885: Tempo de envio 0:00:11.893807: Última captura na hora 2024-10-24 13:28:03: Tempo desde a última captura 0:01:47.199903.
+Equipamento 0020021885: Tempo de envio 0:00:07.221478: Última captura na hora 2024-10-24 13:29:30: Tempo desde a última captura 0:00:20.210093.
+Equipamento 0020011886: Tempo de envio 0:00:08.317665: Última captura na hora 2024-10-24 13:28:42: Tempo desde a última captura 0:01:08.216100.
+Equipamento 0020021886: Tempo de envio 0:00:07.017470: Última captura na hora 2024-10-24 13:29:32: Tempo desde a última captura 0:00:18.225232.
+Equipamento 0020011893: Tempo de envio 0:00:07.785507: Última captura na hora 2024-10-24 13:29:22: Tempo desde a última captura 0:00:28.234424.
+Equipamento 0020011894: Tempo de envio 0:00:08.593552: Última captura na hora 2024-10-24 13:29:10: Tempo desde a última captura 0:00:40.245883.
+Equipamento 0020016978: Tempo de envio 0:00:07.873447: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:13.252967.
+Equipamento 0020016979: Tempo de envio 0:00:12.081462: Última captura na hora 2024-10-24 13:29:29: Tempo desde a última captura 0:00:21.347918.
+Equipamento 0020026979: Tempo de envio 0:00:09.905447: Última captura na hora 2024-10-24 13:29:35: Tempo desde a última captura 0:00:15.385678.
+Equipamento 0020016976: Pasta da hora inexistente.
+Equipamento 0020016977: Pasta da hora inexistente.
+Equipamento 0020016396: Tempo de envio 0:00:10.221446: Última captura na hora 2024-10-24 13:29:35: Tempo desde a última captura 0:00:15.517696.
+Equipamento 0020016397: Tempo de envio 0:02:12.878819: Última captura na hora 2024-10-24 13:21:51: Tempo desde a última captura 0:07:59.552335.
+Equipamento 0020016405: Tempo de envio 0:00:07.921515: Última captura na hora 2024-10-24 13:29:20: Tempo desde a última captura 0:00:30.567527.
+Equipamento 0020016406: Tempo de envio 0:00:08.277497: Última captura na hora 2024-10-24 13:29:24: Tempo desde a última captura 0:00:26.577655.
+Equipamento 0020016398: Tempo de envio 0:00:07.273433: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:09.586659.
+Equipamento 0020016399: Tempo de envio 0:00:08.296037: Última captura na hora 2024-10-24 13:02:29: Tempo desde a última captura 0:27:21.590872.
+Equipamento 0020016389: Tempo de envio 0:00:08.009470: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:19.600978.
+Equipamento 0020016390: Tempo de envio 0:00:07.169450: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:13.627522.
+Equipamento 0020016391: Pasta da hora inexistente.
+Equipamento 0020016384: Tempo de envio 0:00:07.077462: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:16.640217.
+Equipamento 0020026384: Tempo de envio 0:00:09.165486: Última captura na hora 2024-10-24 13:29:26: Tempo desde a última captura 0:00:24.661427.
+Equipamento 0020016385: Tempo de envio 0:00:08.717596: Última captura na hora 2024-10-24 13:28:59: Tempo desde a última captura 0:00:51.673431.
+Equipamento 0020026385: Tempo de envio 0:00:09.709556: Última captura na hora 2024-10-24 13:29:08: Tempo desde a última captura 0:00:42.696805.
+Equipamento 0020016392: Tempo de envio 0:00:09.869495: Última captura na hora 2024-10-24 13:29:23: Tempo desde a última captura 0:00:27.709077.
+Equipamento 0020016393: Tempo de envio 0:00:07.777539: Última captura na hora 2024-10-24 13:29:14: Tempo desde a última captura 0:00:36.722316.
+Equipamento 0020016386: Tempo de envio 0:00:07.169450: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:13.737641.
+Equipamento 0020016387: Tempo de envio 0:00:13.850116: Última captura na hora 2024-10-24 13:26:44: Tempo desde a última captura 0:03:06.748501.
+Equipamento 0020016402: Tempo de envio 0:00:08.024299: Última captura na hora 2024-10-24 13:01:23: Tempo desde a última captura 0:28:27.751693.
+Equipamento 0020016403: Tempo de envio 0:00:08.029482: Última captura na hora 2024-10-24 13:29:28: Tempo desde a última captura 0:00:22.759782.
+Equipamento 0020016404: Tempo de envio 0:00:08.277497: Última captura na hora 2024-10-24 13:29:24: Tempo desde a última captura 0:00:26.770932.
+Equipamento 0020016394: Tempo de envio 0:00:08.181450: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:14.834961.
+Equipamento 0020016395: Tempo de envio 0:00:09.689556: Última captura na hora 2024-10-24 13:29:08: Tempo desde a última captura 0:00:42.847141.
+Equipamento 0020016407: Tempo de envio 0:00:12.869495: Última captura na hora 2024-10-24 13:29:20: Tempo desde a última captura 0:00:30.857137.
+Equipamento 0020016408: Tempo de envio 0:00:09.945527: Última captura na hora 2024-10-24 13:29:15: Tempo desde a última captura 0:00:35.865250.
+Equipamento 0020016400: Tempo de envio 0:00:08.869495: Última captura na hora 2024-10-24 13:29:24: Tempo desde a última captura 0:00:26.874390.
+Equipamento 0020016401: Tempo de envio 0:00:07.205478: Última captura na hora 2024-10-24 13:29:30: Tempo desde a última captura 0:00:20.885527.
+Equipamento 0020016382: Tempo de envio 0:00:07.209442: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:11.927117.
+Equipamento 0020026382: Tempo de envio 0:00:09.233442: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:13.966603.
+Equipamento 0020016383: Tempo de envio 0:00:09.213442: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:14.029695.
+Equipamento 0020026383: Tempo de envio 0:00:11.349433: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:14.077439.
+Equipamento 0020016388: Tempo de envio 0:00:10.269433: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:13.095587.
+Equipamento 0020013693: Tempo de envio 0:00:12.069462: Última captura na hora 2024-10-24 13:29:29: Tempo desde a última captura 0:00:22.124529.
+Equipamento 0020023693: Tempo de envio 0:00:11.037522: Última captura na hora 2024-10-24 13:29:15: Tempo desde a última captura 0:00:36.143840.
+Equipamento 0020013694: Tempo de envio 0:00:10.569548: Última captura na hora 2024-10-24 13:29:09: Tempo desde a última captura 0:00:42.151000.
+Equipamento 0020013695: Tempo de envio 0:00:09.481609: Última captura na hora 2024-10-24 13:28:55: Tempo desde a última captura 0:00:56.157107.
+Equipamento 0020013696: Tempo de envio 0:00:09.057490: Última captura na hora 2024-10-24 13:29:25: Tempo desde a última captura 0:00:26.163113.
+Equipamento 0020013707: Tempo de envio 0:00:08.233649: Última captura na hora 2024-10-24 13:28:46: Tempo desde a última captura 0:01:05.171211.
+Equipamento 0020013708: Tempo de envio 0:00:11.893779: Última captura na hora 2024-10-24 13:28:10: Tempo desde a última captura 0:01:41.180302.
+Equipamento 0020013683: Tempo de envio 0:00:09.185442: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:14.210980.
+Equipamento 0020023683: Tempo de envio 0:00:05.229442: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:10.248536.
+Equipamento 0020013688: Tempo de envio 0:00:08.481609: Última captura na hora 2024-10-24 13:28:56: Tempo desde a última captura 0:00:55.259713.
+Equipamento 0020013689: Tempo de envio 0:00:11.305433: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:14.290149.
+Equipamento 0020013690: Tempo de envio 0:00:08.805479: Última captura na hora 2024-10-24 13:29:28: Tempo desde a última captura 0:00:23.301351.
+Equipamento 0020013697: Tempo de envio 0:00:14.421645: Última captura na hora 2024-10-24 13:28:41: Tempo desde a última captura 0:01:10.307486.
+Equipamento 0020013698: Tempo de envio 0:00:10.838229: Última captura na hora 2024-10-24 13:26:19: Tempo desde a última captura 0:03:32.315732.
+Equipamento 0020013705: Tempo de envio 0:00:10.253433: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:13.322733.
+Equipamento 0020013706: Tempo de envio 0:00:08.193930: Última captura na hora 2024-10-24 13:27:36: Tempo desde a última captura 0:02:15.329868.
+Equipamento 0020013681: Tempo de envio 0:00:08.849487: Última captura na hora 2024-10-24 13:29:26: Tempo desde a última captura 0:00:25.376344.
+Equipamento 0020023681: Tempo de envio 0:00:10.357425: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:11.431104.
+Equipamento 0020013682: Tempo de envio 0:00:15.017483: Última captura na hora 2024-10-24 13:29:21: Tempo desde a última captura 0:00:30.479077.
+Equipamento 0020023682: Tempo de envio 0:00:11.069458: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:20.518754.
+Equipamento 0020013699: Tempo de envio 0:00:16.705544: Última captura na hora 2024-10-24 13:29:04: Tempo desde a última captura 0:00:47.523759.
+Equipamento 0020013700: Tempo de envio 0:00:10.453613: Última captura na hora 2024-10-24 13:28:53: Tempo desde a última captura 0:00:58.529848.
+Equipamento 0020013691: Tempo de envio 0:00:15.041458: Última captura na hora 2024-10-24 13:29:27: Tempo desde a última captura 0:00:24.538850.
+Equipamento 0020013692: Tempo de envio 0:00:07.801503: Última captura na hora 2024-10-24 13:29:23: Tempo desde a última captura 0:00:28.544944.
+Equipamento 0020013701: Pasta da hora inexistente.
+Equipamento 0020013702: Pasta da hora inexistente.
+Equipamento 0020013684: Tempo de envio 0:00:09.341705: Última captura na hora 2024-10-24 13:28:31: Tempo desde a última captura 0:01:20.558140.
+Equipamento 0020013685: Tempo de envio 0:00:06.797507: Última captura na hora 2024-10-24 13:29:23: Tempo desde a última captura 0:00:28.567337.
+Equipamento 0020013703: Tempo de envio 0:00:09.629548: Última captura na hora 2024-10-24 13:29:10: Tempo desde a última captura 0:00:41.577440.
+Equipamento 0020013704: Tempo de envio 0:00:11.153486: Última captura na hora 2024-10-24 13:29:24: Tempo desde a última captura 0:00:27.601721.
+Equipamento 0020013686: Tempo de envio 0:00:10.393617: Última captura na hora 2024-10-24 13:28:52: Tempo desde a última captura 0:00:59.609941.
+Equipamento 0020013687: Tempo de envio 0:00:10.253433: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:13.616064.
+Equipamento 0020016963: Tempo de envio 0:00:11.073442: Última captura na hora 2024-10-24 13:29:35: Tempo desde a última captura 0:00:16.622185.
+Equipamento 0020016964: Tempo de envio 0:00:10.081462: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:20.630186.
+Equipamento 0020016956: Tempo de envio 0:00:11.429901: Última captura na hora 2024-10-24 13:27:40: Tempo desde a última captura 0:02:11.639397.
+Equipamento 0020026956: Tempo de envio 0:00:10.489889: Última captura na hora 2024-10-24 13:27:44: Tempo desde a última captura 0:02:07.647679.
+Equipamento 0020016957: Tempo de envio 0:00:11.693556: Última captura na hora 2024-10-24 13:29:06: Tempo desde a última captura 0:00:45.658927.
+Equipamento 0020026957: Tempo de envio 0:00:12.237442: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:17.672086.
+Equipamento 0020016961: Tempo de envio 0:00:29.229766: Última captura na hora 2024-10-24 13:27:56: Tempo desde a última captura 0:01:55.683311.
+Equipamento 0020026961: Tempo de envio 0:00:14.861475: Última captura na hora 2024-10-24 13:29:23: Tempo desde a última captura 0:00:28.698561.
+Equipamento 0020016962: Tempo de envio 0:00:11.185450: Última captura na hora 2024-10-24 13:29:33: Tempo desde a última captura 0:00:18.707722.
+Equipamento 0020026962: Tempo de envio 0:00:08.589608: Última captura na hora 2024-10-24 13:28:56: Tempo desde a última captura 0:00:55.720820.
+Equipamento 0020016958: Pasta da hora inexistente.
+Equipamento 0020026958: Pasta da hora inexistente.
+Equipamento 0020016960: Tempo de envio 0:00:10.065458: Última captura na hora 2024-10-24 13:29:32: Tempo desde a última captura 0:00:19.731830.
+Equipamento 0020026960: Tempo de envio 0:00:10.777543: Última captura na hora 2024-10-24 13:29:10: Tempo desde a última captura 0:00:41.744111.
+Equipamento 0020016952: Tempo de envio 0:00:12.013470: Última captura na hora 2024-10-24 13:29:27: Tempo desde a última captura 0:00:24.774772.
+Equipamento 0020026952: Tempo de envio 0:00:07.653836: Última captura na hora 2024-10-24 13:28:00: Tempo desde a última captura 0:01:51.784888.
+Equipamento 0020016953: Tempo de envio 0:00:10.025426: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:11.866478.
+Equipamento 0020026953: Tempo de envio 0:00:09.042908: Última captura na hora 2024-10-24 13:23:33: Tempo desde a última captura 0:06:18.872475.
+Equipamento 0020016954: Tempo de envio 0:00:07.785539: Última captura na hora 2024-10-24 13:29:14: Tempo desde a última captura 0:00:37.876479.
+Equipamento 0020016955: Tempo de envio 0:00:09.029426: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:10.952920.
+Equipamento 0020026955: Tempo de envio 0:00:10.061426: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:12.015662.
+Equipamento 0020011909: Tempo de envio 0:00:07.453621: Última captura na hora 2024-10-24 13:28:54: Tempo desde a última captura 0:00:58.026156.
+Equipamento 0020021909: Tempo de envio 0:00:09.653548: Última captura na hora 2024-10-24 13:29:10: Tempo desde a última captura 0:00:42.049736.
+Equipamento 0020011897: Tempo de envio 0:00:09.221434: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:13.061947.
+Equipamento 0020011898: Pasta da hora inexistente.
+Equipamento 0020011899: Tempo de envio 0:00:11.129686: Última captura na hora 2024-10-24 13:28:34: Tempo desde a última captura 0:01:18.074030.
+Equipamento 0020011901: Tempo de envio 0:00:07.225434: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:11.107528.
+Equipamento 0020011900: Tempo de envio 0:00:06.997442: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:13.153559.
+Equipamento 0020011908: Tempo de envio 0:00:09.325425: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:11.186754.
+Equipamento 0020011911: Tempo de envio 0:00:07.001442: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:13.212224.
+Equipamento 0020011912: Tempo de envio 0:00:07.817507: Última captura na hora 2024-10-24 13:29:22: Tempo desde a última captura 0:00:30.241605.
+Equipamento 0020011902: Tempo de envio 0:00:34.225434: Última captura na hora 2024-10-24 13:29:14: Tempo desde a última captura 0:00:39.124305.
+Equipamento 0020011903: Tempo de envio 0:00:08.249434: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:14.082882.
+Equipamento 0020011904: Tempo de envio 0:00:11.141450: Última captura na hora 2024-10-24 13:29:33: Tempo desde a última captura 0:00:21.356204.
+Equipamento 0020021904: Tempo de envio 0:00:11.101414: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:12.386723.
+Equipamento 0020011905: Tempo de envio 0:00:08.249434: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:14.394975.
+Equipamento 0020021905: Tempo de envio 0:00:12.777832: Última captura na hora 2024-10-24 13:27:56: Tempo desde a última captura 0:01:58.399973.
+Equipamento 0020011906: Tempo de envio 0:00:09.049414: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:10.423306.
+Equipamento 0020013746: Tempo de envio 0:00:42.853487: Última captura na hora 2024-10-24 13:28:52: Tempo desde a última captura 0:01:02.434407.
+Equipamento 0020023746: Tempo de envio 0:00:10.025470: Última captura na hora 2024-10-24 13:29:29: Tempo desde a última captura 0:00:25.459907.
+Equipamento 0020013747: Tempo de envio 0:00:05.449629: Última captura na hora 2024-10-24 13:28:54: Tempo desde a última captura 0:01:00.473297.
+Equipamento 0020023747: Tempo de envio 0:00:07.481629: Última captura na hora 2024-10-24 13:28:52: Tempo desde a última captura 0:01:02.486677.
+Equipamento 0020013748: Tempo de envio 0:00:09.001426: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:13.521107.
+Equipamento 0020023748: Tempo de envio 0:00:08.881447: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:18.551246.
+Equipamento 0020013749: Tempo de envio 0:00:07.369413: Última captura na hora 2024-10-24 13:29:46: Tempo desde a última captura 0:00:08.557252.
+Equipamento 0020023749: Tempo de envio 0:00:08.377413: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:09.572434.
+Equipamento 0020013750: Tempo de envio 0:00:10.741528: Última captura na hora 2024-10-24 13:29:14: Tempo desde a última captura 0:00:40.576441.
+Equipamento 0020023750: Tempo de envio 0:00:07.789527: Última captura na hora 2024-10-24 13:29:17: Tempo desde a última captura 0:00:37.585536.
+Equipamento 0020013751: Tempo de envio 0:00:06.853487: Última captura na hora 2024-10-24 13:29:28: Tempo desde a última captura 0:00:26.594711.
+Equipamento 0020016221: Tempo de envio 0:00:06.373413: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:07.622082.
+Equipamento 0020013752: Tempo de envio 0:00:13.417709: Última captura na hora 2024-10-24 13:28:26: Tempo desde a última captura 0:01:28.628194.
+Equipamento 0020023752: Tempo de envio 0:00:10.105414: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:11.638325.
+Equipamento 0020013753: Tempo de envio 0:00:08.861535: Última captura na hora 2024-10-24 13:29:14: Tempo desde a última captura 0:00:40.649636.
+Equipamento 0020013734: Tempo de envio 0:00:08.325417: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:10.680645.
+Equipamento 0020023734: Tempo de envio 0:00:07.313433: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:13.704867.
+Equipamento 0020013735: Tempo de envio 0:00:12.149450: Última captura na hora 2024-10-24 13:29:32: Tempo desde a última captura 0:00:22.742689.
+Equipamento 0020023735: Tempo de envio 0:00:10.333433: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:16.770224.
+Equipamento 0020013738: Pasta da hora inexistente.
+Equipamento 0020023738: Pasta da hora inexistente.
+Equipamento 0020013739: Pasta da hora inexistente.
+Equipamento 0020023739: Pasta da hora inexistente.
+Equipamento 0020013736: Tempo de envio 0:00:06.945451: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:17.796552.
+Equipamento 0020023736: Tempo de envio 0:00:08.337433: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:14.819862.
+Equipamento 0020013737: Tempo de envio 0:00:11.981495: Última captura na hora 2024-10-24 13:29:21: Tempo desde a última captura 0:00:33.829525.
+Equipamento 0020023737: Tempo de envio 0:00:12.085422: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:15.840775.
+Equipamento 0020013732: Tempo de envio 0:00:08.085410: Última captura na hora 2024-10-24 13:29:46: Tempo desde a última captura 0:00:08.844914.
+Equipamento 0020023732: Tempo de envio 0:00:08.890410: Última captura na hora 2024-10-24 13:25:36: Tempo desde a última captura 0:04:18.848910.
+Equipamento 0020013733: Tempo de envio 0:00:16.149450: Última captura na hora 2024-10-24 13:29:28: Tempo desde a última captura 0:00:26.860135.
+Equipamento 0020023733: Tempo de envio 0:00:19.093598: Última captura na hora 2024-10-24 13:28:48: Tempo desde a última captura 0:01:06.873485.
+Equipamento 0020013758: Tempo de envio 0:00:13.285429: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:18.887693.
+Equipamento 0020013759: Tempo de envio 0:00:09.913515: Última captura na hora 2024-10-24 13:29:18: Tempo desde a última captura 0:00:36.912253.
+Equipamento 0020013742: Tempo de envio 0:00:11.769516: Última captura na hora 2024-10-24 13:29:16: Tempo desde a última captura 0:00:38.924567.
+Equipamento 0020013743: Tempo de envio 0:00:13.749511: Última captura na hora 2024-10-24 13:29:15: Tempo desde a última captura 0:00:39.929679.
+Equipamento 0020023743: Tempo de envio 0:00:24.093442: Última captura na hora 2024-10-24 13:29:22: Tempo desde a última captura 0:00:32.940797.
+Equipamento 0020013760: Tempo de envio 0:00:17.325665: Última captura na hora 2024-10-24 13:28:33: Tempo desde a última captura 0:01:21.946965.
+Equipamento 0020013754: Tempo de envio 0:00:22.028089: Última captura na hora 2024-10-24 13:02:02: Tempo desde a última captura 0:27:52.949933.
+Equipamento 0020023754: Tempo de envio 0:00:16.969563: Última captura na hora 2024-10-24 13:28:59: Tempo desde a última captura 0:00:55.958065.
+Equipamento 0020013761: Tempo de envio 0:00:10.945451: Última captura na hora 2024-10-24 13:29:33: Tempo desde a última captura 0:00:21.965165.
+Equipamento 0020023761: Tempo de envio 0:00:10.225478: Última captura na hora 2024-10-24 13:29:27: Tempo desde a última captura 0:00:27.973304.
+Equipamento 0020013740: Tempo de envio 0:00:20.769483: Última captura na hora 2024-10-24 13:29:15: Tempo desde a última captura 0:00:39.983797.
+Equipamento 0020023740: Tempo de envio 0:00:12.337433: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:18.995921.
+Equipamento 0020013741: Tempo de envio 0:00:17.153450: Última captura na hora 2024-10-24 13:29:27: Tempo desde a última captura 0:00:28.004020.
+Equipamento 0020023741: Tempo de envio 0:00:27.345429: Última captura na hora 2024-10-24 13:29:22: Tempo desde a última captura 0:00:33.013226.
+Equipamento 0020013764: Tempo de envio 0:00:06.153450: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:17.021363.
+Equipamento 0020013765: Tempo de envio 0:00:10.061490: Última captura na hora 2024-10-24 13:29:24: Tempo desde a última captura 0:00:31.033646.
+Equipamento 0020013744: Tempo de envio 0:00:10.253433: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:17.062750.
+Equipamento 0020023744: Tempo de envio 0:00:09.845507: Última captura na hora 2024-10-24 13:29:20: Tempo desde a última captura 0:00:35.088926.
+Equipamento 0020013745: Tempo de envio 0:00:07.897563: Última captura na hora 2024-10-24 13:29:08: Tempo desde a última captura 0:00:47.095926.
+Equipamento 0020023745: Tempo de envio 0:00:09.717552: Última captura na hora 2024-10-24 13:29:09: Tempo desde a última captura 0:00:46.106927.
+Equipamento 0020013762: Tempo de envio 0:00:08.513628: Última captura na hora 2024-10-24 13:28:51: Tempo desde a última captura 0:01:04.121933.
+Equipamento 0020013763: Tempo de envio 0:00:09.945451: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:21.128927.
+Equipamento 0020023763: Tempo de envio 0:00:18.733524: Última captura na hora 2024-10-24 13:29:07: Tempo desde a última captura 0:00:48.141035.
+Equipamento 0020013755: Pasta da hora inexistente.
+Equipamento 0020013756: Tempo de envio 0:00:09.449629: Última captura na hora 2024-10-24 13:28:50: Tempo desde a última captura 0:01:05.156356.
+Equipamento 0020013757: Tempo de envio 0:00:08.790052: Última captura na hora 2024-10-24 13:27:05: Tempo desde a última captura 0:02:50.172498.
+Equipamento 0020016967: Tempo de envio 0:00:07.209478: Última captura na hora 2024-10-24 13:29:30: Tempo desde a última captura 0:00:25.178647.
+Equipamento 0020016968: Tempo de envio 0:00:08.873447: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:19.193033.
+Equipamento 0020016972: Tempo de envio 0:00:09.081414: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:11.200566.
+Equipamento 0020016973: Tempo de envio 0:00:07.125706: Última captura na hora 2024-10-24 13:28:33: Tempo desde a última captura 0:01:22.206661.
+Equipamento 0020016965: Tempo de envio 0:00:15.519417: Última captura na hora 2024-10-24 13:04:59: Tempo desde a última captura 0:24:56.210802.
+Equipamento 0020016966: Tempo de envio 0:00:10.505596: Última captura na hora 2024-10-24 13:28:57: Tempo desde a última captura 0:00:58.237366.
+Equipamento 0020016974: Tempo de envio 0:00:09.073442: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:18.267874.
+Equipamento 0020026974: Tempo de envio 0:00:11.073458: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:24.303154.
+Equipamento 0020016975: Tempo de envio 0:00:11.389421: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:15.321294.
+Equipamento 0020026975: Tempo de envio 0:00:11.189450: Última captura na hora 2024-10-24 13:29:33: Tempo desde a última captura 0:00:22.336405.
+Equipamento 0020016969: Tempo de envio 0:00:09.729524: Última captura na hora 2024-10-24 13:29:16: Tempo desde a última captura 0:00:39.349559.
+Equipamento 0020016970: Tempo de envio 0:00:09.373413: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:11.359694.
+Equipamento 0020016971: Tempo de envio 0:00:08.921515: Última captura na hora 2024-10-24 13:29:19: Tempo desde a última captura 0:00:36.370695.
+Equipamento 0020013633: Tempo de envio 0:00:07.317417: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:10.421439.
+Equipamento 0020023633: Tempo de envio 0:00:08.081422: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:12.447794.
+Equipamento 0020013662: Tempo de envio 0:00:09.045422: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:13.497795.
+Equipamento 0020023662: Tempo de envio 0:00:10.081422: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:14.538794.
+Equipamento 0020013663: Tempo de envio 0:00:10.317417: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:13.595798.
+Equipamento 0020023663: Tempo de envio 0:00:07.333433: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:14.629800.
+Equipamento 0020013664: Tempo de envio 0:02:41.637560: Última captura na hora 2024-10-24 13:26:35: Tempo desde a última captura 0:03:20.633800.
+Equipamento 0020023664: Tempo de envio 0:00:07.349417: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:10.680804.
+Equipamento 0020013665: Tempo de envio 0:00:15.569548: Última captura na hora 2024-10-24 13:29:04: Tempo desde a última captura 0:00:51.689805.
+Equipamento 0020013660: Tempo de envio 0:00:07.569548: Última captura na hora 2024-10-24 13:29:12: Tempo desde a última captura 0:00:43.718805.
+Equipamento 0020013661: Tempo de envio 0:00:07.017947: Última captura na hora 2024-10-24 13:27:33: Tempo desde a última captura 0:02:22.734809.
+Equipamento 0020013644: Tempo de envio 0:01:59.277429: Última captura na hora 2024-10-24 13:27:50: Tempo desde a última captura 0:02:05.746813.
+Equipamento 0020013645: Tempo de envio 0:00:59.189954: Última captura na hora 2024-10-24 13:26:39: Tempo desde a última captura 0:03:16.751807.
+Equipamento 0020013671: Tempo de envio 0:00:09.981455: Última captura na hora 2024-10-24 13:29:33: Tempo desde a última captura 0:00:22.767819.
+Equipamento 0020023671: Tempo de envio 0:00:11.009418: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:14.809826.
+Equipamento 0020013672: Tempo de envio 0:00:10.369413: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:12.849811.
+Equipamento 0020023672: Tempo de envio 0:00:09.185450: Última captura na hora 2024-10-24 13:29:35: Tempo desde a última captura 0:00:20.896817.
+Equipamento 0020013658: Tempo de envio 0:00:29.082337: Última captura na hora 2024-10-24 13:25:34: Tempo desde a última captura 0:04:21.913817.
+Equipamento 0020023658: Tempo de envio 0:01:30.977451: Última captura na hora 2024-10-24 13:28:13: Tempo desde a última captura 0:01:42.925817.
+Equipamento 0020013659: Tempo de envio 0:00:07.853535: Última captura na hora 2024-10-24 13:29:15: Tempo desde a última captura 0:00:40.965821.
+Equipamento 0020013675: Tempo de envio 0:00:09.281429: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:15.986822.
+Equipamento 0020023675: Tempo de envio 0:00:15.853459: Última captura na hora 2024-10-24 13:29:26: Tempo desde a última captura 0:00:29.997819.
+Equipamento 0020013676: Tempo de envio 0:00:12.285429: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:19.014823.
+Equipamento 0020023676: Tempo de envio 0:00:10.345429: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:17.026825.
+Equipamento 0020013650: Tempo de envio 0:00:14.941451: Última captura na hora 2024-10-24 13:29:29: Tempo desde a última captura 0:00:27.040829.
+Equipamento 0020013651: Tempo de envio 0:00:07.313453: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:20.059825.
+Equipamento 0020013673: Tempo de envio 0:00:07.317701: Última captura na hora 2024-10-24 13:28:34: Tempo desde a última captura 0:01:22.075846.
+Equipamento 0020013674: Tempo de envio 0:24:33.761780: Última captura na hora 2024-10-24 13:03:48: Tempo desde a última captura 0:26:08.080838.
+Equipamento 0020023674: Tempo de envio 0:25:09.065458: Última captura na hora 2024-10-24 13:04:33: Tempo desde a última captura 0:25:23.085841.
+Equipamento 0020013636: Tempo de envio 0:03:47.149686: Última captura na hora 2024-10-24 13:24:58: Tempo desde a última captura 0:04:58.090837.
+Equipamento 0020023636: Tempo de envio 0:02:19.276670: Última captura na hora 2024-10-24 13:14:17: Tempo desde a última captura 0:15:39.096827.
+Equipamento 0020013637: Tempo de envio 0:00:14.581568: Última captura na hora 2024-10-24 13:29:00: Tempo desde a última captura 0:00:56.141841.
+Equipamento 0020023637: Tempo de envio 0:00:10.789483: Última captura na hora 2024-10-24 13:29:25: Tempo desde a última captura 0:00:31.186839.
+Equipamento 0020013668: Pasta da hora inexistente.
+Equipamento 0020013669: Pasta da hora inexistente.
+Equipamento 0020023669: Pasta da hora inexistente.
+Equipamento 0020013654: Pasta da hora inexistente.
+Equipamento 0020013655: Tempo de envio 0:00:08.325425: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:14.208847.
+Equipamento 0020013679: Pasta da hora inexistente.
+Equipamento 0020023679: Pasta da hora inexistente.
+Equipamento 0020013680: Pasta da hora inexistente.
+Equipamento 0020023680: Pasta da hora inexistente.
+Equipamento 0020013641: Pasta da hora inexistente.
+Equipamento 0020023641: Pasta da hora inexistente.
+Equipamento 0020013642: Pasta da hora inexistente.
+Equipamento 0020023642: Pasta da hora inexistente.
+Equipamento 0020013643: Pasta da hora inexistente.
+Equipamento 0020013670: Pasta da hora inexistente.
+Equipamento 0020023670: Pasta da hora inexistente.
+Equipamento 0020013646: Tempo de envio 0:00:08.061414: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:11.238842.
+Equipamento 0020013647: Tempo de envio 0:00:09.145450: Última captura na hora 2024-10-24 13:29:35: Tempo desde a última captura 0:00:21.251848.
+Equipamento 0020013648: Tempo de envio 0:00:07.537576: Última captura na hora 2024-10-24 13:29:05: Tempo desde a última captura 0:00:51.285848.
+Equipamento 0020013649: Tempo de envio 0:00:09.757515: Última captura na hora 2024-10-24 13:29:18: Tempo desde a última captura 0:00:38.299111.
+Equipamento 0020013634: Tempo de envio 0:00:08.369413: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:11.350268.
+Equipamento 0020013635: Tempo de envio 0:00:08.045422: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:13.393150.
+Equipamento 0020013638: Tempo de envio 0:00:15.797463: Última captura na hora 2024-10-24 13:29:25: Tempo desde a última captura 0:00:31.460951.
+Equipamento 0020023638: Tempo de envio 0:00:14.081422: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:19.500689.
+Equipamento 0020013666: Pasta da hora inexistente.
+Equipamento 0020023666: Pasta da hora inexistente.
+Equipamento 0020013667: Pasta da hora inexistente.
+Equipamento 0020013677: Tempo de envio 0:00:09.747141: Última captura na hora 2024-10-24 13:22:35: Tempo desde a última captura 0:07:21.533477.
+Equipamento 0020023677: Tempo de envio 0:00:12.243225: Última captura na hora 2024-10-24 13:22:12: Tempo desde a última captura 0:07:44.544573.
+Equipamento 0020013678: Tempo de envio 0:00:07.977419: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:12.558813.
+Equipamento 0020023678: Tempo de envio 0:00:07.345429: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:14.590178.
+Equipamento 0020013652: Tempo de envio 0:00:08.521905: Última captura na hora 2024-10-24 13:27:42: Tempo desde a última captura 0:02:14.604326.
+Equipamento 0020013653: Tempo de envio 0:00:08.001426: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:14.618427.
+Equipamento 0020023653: Tempo de envio 0:00:07.569404: Última captura na hora 2024-10-24 13:29:48: Tempo desde a última captura 0:00:08.625515.
+Equipamento 0020013639: Pasta da hora inexistente.
+Equipamento 0020023639: Pasta da hora inexistente.
+Equipamento 0020013640: Tempo de envio 0:00:11.977455: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:25.641641.
+Equipamento 0020023640: Tempo de envio 0:00:13.925503: Última captura na hora 2024-10-24 13:29:17: Tempo desde a última captura 0:00:39.656769.
+Equipamento 0020013656: Tempo de envio 0:00:26.061414: Última captura na hora 2024-10-24 13:29:27: Tempo desde a última captura 0:00:29.667764.
+Equipamento 0020023656: Tempo de envio 0:00:09.101414: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:12.681869.
+Equipamento 0020013657: Tempo de envio 0:00:22.065414: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:25.693008.
+Equipamento 0020023657: Tempo de envio 0:00:18.101414: Última captura na hora 2024-10-24 13:29:35: Tempo desde a última captura 0:00:21.713255.
+Equipamento 0020016987: Tempo de envio 0:00:30.890153: Última captura na hora 2024-10-24 13:26:18: Tempo desde a última captura 0:03:38.717379.
+Equipamento 0020016988: Tempo de envio 0:00:05.561404: Última captura na hora 2024-10-24 13:29:50: Tempo desde a última captura 0:00:06.726524.
+Equipamento 0020016985: Pasta da hora inexistente.
+Equipamento 0020026985: Pasta da hora inexistente.
+Equipamento 0020016986: Tempo de envio 0:00:09.101410: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:11.754968.
+Equipamento 0020026986: Tempo de envio 0:00:10.961511: Última captura na hora 2024-10-24 13:29:18: Tempo desde a última captura 0:00:38.776279.
+Equipamento 0020016983: Tempo de envio 0:00:09.245710: Última captura na hora 2024-10-24 13:28:30: Tempo desde a última captura 0:01:26.781269.
+Equipamento 0020016984: Tempo de envio 0:00:10.785483: Última captura na hora 2024-10-24 13:29:25: Tempo desde a última captura 0:00:31.789512.
+Equipamento 0020016989: Tempo de envio 0:00:09.595400: Última captura na hora 2024-10-24 13:21:32: Tempo desde a última captura 0:08:24.797515.
+Equipamento 0020016990: Tempo de envio 0:00:11.161486: Última captura na hora 2024-10-24 13:29:24: Tempo desde a última captura 0:00:32.807640.
+Equipamento 0020016980: Pasta da hora inexistente.
+Equipamento 0020016981: Tempo de envio 0:00:09.233766: Última captura na hora 2024-10-24 13:28:16: Tempo desde a última captura 0:01:40.814802.
+Equipamento 0020026981: Tempo de envio 0:00:08.781511: Última captura na hora 2024-10-24 13:29:20: Tempo desde a última captura 0:00:36.823986.
+Equipamento 0020016982: Tempo de envio 0:00:14.597592: Última captura na hora 2024-10-24 13:28:54: Tempo desde a última captura 0:01:02.837157.
+Equipamento 0020026982: Tempo de envio 0:00:22.365425: Última captura na hora 2024-10-24 13:29:28: Tempo desde a última captura 0:00:28.849299.
+Equipamento 0020016991: Tempo de envio 0:00:10.277433: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:18.859489.
+Equipamento 0020016992: Tempo de envio 0:00:14.037426: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:20.887844.
+Equipamento 0020016294: Tempo de envio 0:00:09.077414: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:12.960006.
+Equipamento 0020026294: Tempo de envio 0:00:10.573404: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:12.012795.
+Equipamento 0020016295: Tempo de envio 0:00:15.077414: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:19.048102.
+Equipamento 0020026295: Tempo de envio 0:00:15.105414: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:19.081477.
+Equipamento 0020015280: Tempo de envio 0:00:14.629520: Última captura na hora 2024-10-24 13:29:12: Tempo desde a última captura 0:00:45.095858.
+Equipamento 0020025280: Tempo de envio 0:00:12.853479: Última captura na hora 2024-10-24 13:29:24: Tempo desde a última captura 0:00:33.119211.
+Equipamento 0020015348: Tempo de envio 0:00:22.553576: Última captura na hora 2024-10-24 13:28:50: Tempo desde a última captura 0:01:07.128301.
+Equipamento 0020025348: Tempo de envio 0:00:13.349429: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:21.142431.
+Equipamento 0020015274: Tempo de envio 0:00:09.337429: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:17.152587.
+Equipamento 0020015275: Tempo de envio 0:00:09.269433: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:18.163832.
+Equipamento 0020015278: Pasta da hora inexistente.
+Equipamento 0020015279: Tempo de envio 0:00:10.073422: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:16.179840.
+Equipamento 0020015276: Tempo de envio 0:00:11.329417: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:16.192645.
+Equipamento 0020025276: Tempo de envio 0:00:14.317433: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:23.205036.
+Equipamento 0020015277: Tempo de envio 0:00:11.333417: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:16.215233.
+Equipamento 0020025277: Tempo de envio 0:00:13.249406: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:15.228441.
+Equipamento 0020015252: Tempo de envio 0:00:10.077414: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:14.260086.
+Equipamento 0020025252: Tempo de envio 0:00:10.105414: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:14.292525.
+Equipamento 0020015271: Pasta da hora inexistente.
+Equipamento 0020025271: Pasta da hora inexistente.
+Equipamento 0020016300: Tempo de envio 0:00:07.489408: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:10.304568.
+Equipamento 0020016301: Tempo de envio 0:00:09.725524: Última captura na hora 2024-10-24 13:29:16: Tempo desde a última captura 0:00:41.313451.
+Equipamento 0020016296: Pasta da hora inexistente.
+Equipamento 0020016297: Tempo de envio 0:00:11.937511: Última captura na hora 2024-10-24 13:29:17: Tempo desde a última captura 0:00:40.329572.
+Equipamento 0020015272: Tempo de envio 0:00:09.161450: Última captura na hora 2024-10-24 13:29:35: Tempo desde a última captura 0:00:22.342699.
+Equipamento 0020025272: Tempo de envio 0:00:11.245445: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:23.354780.
+Equipamento 0020015273: Tempo de envio 0:00:10.161450: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:23.379249.
+Equipamento 0020025273: Tempo de envio 0:00:11.245445: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:23.400465.
+Equipamento 0020015746: Tempo de envio 0:00:09.853819: Última captura na hora 2024-10-24 13:28:02: Tempo desde a última captura 0:01:55.408464.
+Equipamento 0020015839: Tempo de envio 0:00:11.485620: Última captura na hora 2024-10-24 13:28:50: Tempo desde a última captura 0:01:07.416561.
+Equipamento 0020016298: Tempo de envio 0:00:08.553404: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:10.429679.
+Equipamento 0020016299: Tempo de envio 0:00:10.001419: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:15.443806.
+Equipamento 0020014276: Tempo de envio 0:00:11.161746: Última captura na hora 2024-10-24 13:28:19: Tempo desde a última captura 0:01:38.458045.
+Equipamento 0020014277: Tempo de envio 0:00:15.713596: Última captura na hora 2024-10-24 13:28:52: Tempo desde a última captura 0:01:05.467203.
+Equipamento 0020014278: Tempo de envio 0:00:08.817479: Última captura na hora 2024-10-24 13:29:28: Tempo desde a última captura 0:00:29.472337.
+Equipamento 0020014120: Tempo de envio 0:00:24.905563: Última captura na hora 2024-10-24 13:28:51: Tempo desde a última captura 0:01:06.484547.
+Equipamento 0020014121: Tempo de envio 0:00:12.369393: Última captura na hora 2024-10-24 13:29:46: Tempo desde a última captura 0:00:13.983539.
+Equipamento 0020014102: Tempo de envio 0:00:14.021426: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:24.724696.
+Equipamento 0020024102: Tempo de envio 0:00:10.061426: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:20.740698.
+Equipamento 0020014103: Tempo de envio 0:00:14.821507: Última captura na hora 2024-10-24 13:29:15: Tempo desde a última captura 0:00:45.821702.
+Equipamento 0020024103: Tempo de envio 0:00:11.381397: Última captura na hora 2024-10-24 13:29:46: Tempo desde a última captura 0:00:14.867703.
+Equipamento 0020014279: Tempo de envio 0:00:13.049423: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:22.885705.
+Equipamento 0020024279: Tempo de envio 0:00:08.917535: Última captura na hora 2024-10-24 13:29:14: Tempo desde a última captura 0:00:46.914705.
+Equipamento 0020014327: Tempo de envio 0:00:14.321397: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:17.948276.
+Equipamento 0020024327: Tempo de envio 0:00:09.125410: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:15.979522.
+Equipamento 0020014273: Tempo de envio 0:00:09.089410: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:16.137388.
+Equipamento 0020024273: Tempo de envio 0:00:11.505388: Última captura na hora 2024-10-24 13:29:48: Tempo desde a última captura 0:00:13.230398.
+Equipamento 0020014274: Tempo de envio 0:00:16.749511: Última captura na hora 2024-10-24 13:29:12: Tempo desde a última captura 0:00:49.310402.
+Equipamento 0020024274: Tempo de envio 0:00:12.097462: Última captura na hora 2024-10-24 13:29:29: Tempo desde a última captura 0:00:32.323402.
+Equipamento 0020014275: Tempo de envio 0:00:14.613584: Última captura na hora 2024-10-24 13:28:56: Tempo desde a última captura 0:01:05.397402.
+Equipamento 0020024275: Tempo de envio 0:00:30.553592: Última captura na hora 2024-10-24 13:28:38: Tempo desde a última captura 0:01:23.446409.
+Equipamento 0020014114: Tempo de envio 0:00:14.413385: Última captura na hora 2024-10-24 13:29:46: Tempo desde a última captura 0:00:15.505412.
+Equipamento 0020014115: Tempo de envio 0:00:15.985419: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:25.518412.
+Equipamento 0020014118: Tempo de envio 0:00:11.189402: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:16.722424.
+Equipamento 0020024118: Tempo de envio 0:00:16.209402: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:21.759427.
+Equipamento 0020014119: Tempo de envio 0:00:08.073462: Última captura na hora 2024-10-24 13:29:33: Tempo desde a última captura 0:00:28.777426.
+Equipamento 0020024119: Tempo de envio 0:00:10.213402: Última captura na hora 2024-10-24 13:29:46: Tempo desde a última captura 0:00:15.824430.
+Equipamento 0020014007: Tempo de envio 0:00:15.709544: Última captura na hora 2024-10-24 13:29:05: Tempo desde a última captura 0:00:56.869435.
+Equipamento 0020024007: Tempo de envio 0:00:08.677540: Última captura na hora 2024-10-24 13:29:13: Tempo desde a última captura 0:00:48.963435.
+Equipamento 0020014008: Tempo de envio 0:00:11.525388: Última captura na hora 2024-10-24 13:29:48: Tempo desde a última captura 0:00:13.976440.
+Equipamento 0020024008: Tempo de envio 0:00:11.069458: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:30.990441.
+Equipamento 0020014116: Tempo de envio 0:00:19.925511: Última captura na hora 2024-10-24 13:29:09: Tempo desde a última captura 0:00:53.019440.
+Equipamento 0020024116: Tempo de envio 0:00:10.669396: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:15.034441.
+Equipamento 0020014117: Tempo de envio 0:00:14.993419: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:25.044983.
+Equipamento 0020024117: Tempo de envio 0:00:21.017418: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:31.201993.
+Equipamento 0020014636: Tempo de envio 0:00:08.421389: Última captura na hora 2024-10-24 13:29:51: Tempo desde a última captura 0:00:11.227994.
+Equipamento 0020014637: Tempo de envio 0:00:11.153450: Última captura na hora 2024-10-24 13:29:33: Tempo desde a última captura 0:00:29.233992.
+Equipamento 0020017002: Tempo de envio 0:00:10.293657: Última captura na hora 2024-10-24 13:28:42: Tempo desde a última captura 0:01:20.314999.
+Equipamento 0020017003: Tempo de envio 0:00:10.517893: Última captura na hora 2024-10-24 13:27:43: Tempo desde a última captura 0:02:19.320998.
+Equipamento 0020017000: Tempo de envio 0:00:40.362782: Última captura na hora 2024-10-24 13:07:16: Tempo desde a última captura 0:22:46.327997.
+Equipamento 0020017001: Tempo de envio 0:00:08.361397: Última captura na hora 2024-10-24 13:29:49: Tempo desde a última captura 0:00:13.368012.
+Equipamento 0020017006: Tempo de envio 0:00:10.333669: Última captura na hora 2024-10-24 13:28:39: Tempo desde a última captura 0:01:23.382002.
+Equipamento 0020017007: Tempo de envio 0:00:09.785816: Última captura na hora 2024-10-24 13:28:03: Tempo desde a última captura 0:01:59.394167.
+Equipamento 0020017008: Tempo de envio 0:00:10.193402: Última captura na hora 2024-10-24 13:29:46: Tempo desde a última captura 0:00:16.404564.
+Equipamento 0020017004: Tempo de envio 0:00:09.161438: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:24.419418.
+Equipamento 0020017005: Tempo de envio 0:00:10.081462: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:31.431704.
+Equipamento 0020017015: Tempo de envio 0:00:07.953563: Última captura na hora 2024-10-24 13:29:08: Tempo desde a última captura 0:00:54.452268.
+Equipamento 0020017016: Tempo de envio 0:00:10.249406: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:17.460400.
+Equipamento 0020017017: Pasta da hora inexistente.
+Equipamento 0020017009: Tempo de envio 0:00:08.321433: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:22.498401.
+Equipamento 0020017010: Tempo de envio 0:00:10.717380: Última captura na hora 2024-10-24 13:29:51: Tempo desde a última captura 0:00:11.546226.
+Equipamento 0020027010: Tempo de envio 0:00:10.473385: Última captura na hora 2024-10-24 13:29:50: Tempo desde a última captura 0:00:12.644297.
+Equipamento 0020017011: Tempo de envio 0:00:07.477389: Última captura na hora 2024-10-24 13:29:52: Tempo desde a última captura 0:00:10.694521.
+Equipamento 0020017012: Tempo de envio 0:00:07.739684: Última captura na hora 2024-10-24 13:03:59: Tempo desde a última captura 0:26:03.699521.
+Equipamento 0020017013: Tempo de envio 0:00:08.041426: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:20.711521.
+Equipamento 0020017014: Tempo de envio 0:00:09.065803: Última captura na hora 2024-10-24 13:28:07: Tempo desde a última captura 0:01:55.722519.
+Equipamento 0020017018: Tempo de envio 0:00:07.761511: Última captura na hora 2024-10-24 13:29:21: Tempo desde a última captura 0:00:41.726523.
+Equipamento 0020017019: Tempo de envio 0:00:07.793539: Última captura na hora 2024-10-24 13:29:14: Tempo desde a última captura 0:00:48.734523.
+Equipamento 0020012627: Pasta da hora inexistente.
+Equipamento 0020022627: Pasta da hora inexistente.
+Equipamento 0020012628: Pasta da hora inexistente.
+Equipamento 0020022628: Pasta da hora inexistente.
+Equipamento 0020012643: Pasta da hora inexistente.
+Equipamento 0020012644: Pasta da hora inexistente.
+Equipamento 0020012649: Tempo de envio 0:00:22.221446: Última captura na hora 2024-10-24 13:29:23: Tempo desde a última captura 0:00:39.747523.
+Equipamento 0020022649: Tempo de envio 0:00:07.849459: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:28.769628.
+Equipamento 0020012650: Tempo de envio 0:00:09.982088: Última captura na hora 2024-10-24 13:26:55: Tempo desde a última captura 0:03:07.777726.
+Equipamento 0020022650: Tempo de envio 0:00:13.141498: Última captura na hora 2024-10-24 13:29:19: Tempo desde a última captura 0:00:43.802267.
+Equipamento 0020012638: Tempo de envio 0:00:13.669556: Última captura na hora 2024-10-24 13:29:04: Tempo desde a última captura 0:00:58.831483.
+Equipamento 0020012669: Tempo de envio 0:00:14.309453: Última captura na hora 2024-10-24 13:29:29: Tempo desde a última captura 0:00:33.877341.
+Equipamento 0020022669: Tempo de envio 0:00:10.377397: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:15.925074.
+Equipamento 0020012660: Tempo de envio 0:00:10.169406: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:17.936263.
+Equipamento 0020012661: Tempo de envio 0:00:08.973455: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:28.947437.
+Equipamento 0020016694: Tempo de envio 0:00:08.337429: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:21.961514.
+Equipamento 0020016695: Tempo de envio 0:00:08.357397: Última captura na hora 2024-10-24 13:29:49: Tempo desde a última captura 0:00:13.985780.
+Equipamento 0020026695: Tempo de envio 0:00:13.349417: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:24.040491.
+Equipamento 0020012670: Tempo de envio 0:00:08.797503: Última captura na hora 2024-10-24 13:29:22: Tempo desde a última captura 0:00:41.079135.
+Equipamento 0020016049: Tempo de envio 0:00:16.269433: Última captura na hora 2024-10-24 13:29:32: Tempo desde a última captura 0:00:31.107323.
+Equipamento 0020012637: Tempo de envio 0:00:19.545384: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:22.164134.
+Equipamento 0020022637: Tempo de envio 0:00:18.645572: Última captura na hora 2024-10-24 13:28:55: Tempo desde a última captura 0:01:08.194304.
+Equipamento 0020012647: Tempo de envio 0:00:10.017442: Última captura na hora 2024-10-24 13:29:36: Tempo desde a última captura 0:00:27.208524.
+Equipamento 0020012648: Tempo de envio 0:00:12.165406: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:20.225827.
+Equipamento 0020022648: Tempo de envio 0:00:08.665396: Última captura na hora 2024-10-24 13:29:49: Tempo desde a última captura 0:00:14.409646.
+Equipamento 0020012656: Tempo de envio 0:00:07.069462: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:29.495649.
+Equipamento 0020012657: Tempo de envio 0:00:06.057414: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:16.518651.
+Equipamento 0020012658: Pasta da hora inexistente.
+Equipamento 0020012659: Tempo de envio 0:00:17.037458: Última captura na hora 2024-10-24 13:29:25: Tempo desde a última captura 0:00:38.529651.
+Equipamento 0020012640: Tempo de envio 0:00:08.849487: Última captura na hora 2024-10-24 13:29:26: Tempo desde a última captura 0:00:37.540649.
+Equipamento 0020022640: Tempo de envio 0:00:10.757543: Última captura na hora 2024-10-24 13:29:10: Tempo desde a última captura 0:00:53.548652.
+Equipamento 0020016051: Tempo de envio 0:00:11.205478: Última captura na hora 2024-10-24 13:29:26: Tempo desde a última captura 0:00:37.564650.
+Equipamento 0020012636: Tempo de envio 0:00:14.810113: Última captura na hora 2024-10-24 13:26:44: Tempo desde a última captura 0:03:19.572653.
+Equipamento 0020022636: Tempo de envio 0:00:15.285497: Última captura na hora 2024-10-24 13:29:17: Tempo desde a última captura 0:00:46.593652.
+Equipamento 0020012662: Tempo de envio 0:00:07.381421: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:19.604654.
+Equipamento 0020012663: Tempo de envio 0:00:07.385421: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:19.635916.
+Equipamento 0020012652: Tempo de envio 0:00:10.377421: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:22.651918.
+Equipamento 0020012653: Tempo de envio 0:00:07.985523: Última captura na hora 2024-10-24 13:29:18: Tempo desde a última captura 0:00:45.674922.
+Equipamento 0020012645: Tempo de envio 0:00:17.273429: Última captura na hora 2024-10-24 13:29:32: Tempo desde a última captura 0:00:31.685087.
+Equipamento 0020022645: Tempo de envio 0:00:17.345429: Última captura na hora 2024-10-24 13:29:32: Tempo desde a última captura 0:00:31.707520.
+Equipamento 0020012646: Tempo de envio 0:00:15.409645: Última captura na hora 2024-10-24 13:28:40: Tempo desde a última captura 0:01:23.720634.
+Equipamento 0020022646: Tempo de envio 0:00:18.061426: Última captura na hora 2024-10-24 13:29:32: Tempo desde a última captura 0:00:31.764059.
+Equipamento 0020012639: Tempo de envio 0:00:09.301397: Última captura na hora 2024-10-24 13:29:48: Tempo desde a última captura 0:00:15.775321.
+Equipamento 0020022639: Tempo de envio 0:00:10.061426: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:23.839535.
+Equipamento 0020016050: Tempo de envio 0:00:07.529377: Última captura na hora 2024-10-24 13:29:55: Tempo desde a última captura 0:00:09.105306.
+Equipamento 0020012634: Tempo de envio 0:00:08.029470: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:33.128306.
+Equipamento 0020022634: Tempo de envio 0:00:06.473385: Última captura na hora 2024-10-24 13:29:54: Tempo desde a última captura 0:00:10.172313.
+Equipamento 0020012635: Tempo de envio 0:00:17.181402: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:25.297584.
+Equipamento 0020022635: Tempo de envio 0:00:08.205402: Última captura na hora 2024-10-24 13:29:48: Tempo desde a última captura 0:00:16.333971.
+Equipamento 0020012667: Tempo de envio 0:00:10.417389: Última captura na hora 2024-10-24 13:29:49: Tempo desde a última captura 0:00:15.350972.
+Equipamento 0020012668: Tempo de envio 0:00:06.937451: Última captura na hora 2024-10-24 13:29:37: Tempo desde a última captura 0:00:27.378053.
+Equipamento 0020012632: Tempo de envio 0:00:23.665380: Última captura na hora 2024-10-24 13:29:38: Tempo desde a última captura 0:00:26.430028.
+Equipamento 0020022632: Tempo de envio 0:00:11.725380: Última captura na hora 2024-10-24 13:29:50: Tempo desde a última captura 0:00:14.468739.
+Equipamento 0020012633: Tempo de envio 0:00:17.741570: Última captura na hora 2024-10-24 13:12:49: Tempo desde a última captura 0:17:15.478940.
+Equipamento 0020022633: Tempo de envio 0:00:28.818024: Última captura na hora 2024-10-24 13:26:52: Tempo desde a última captura 0:03:12.492266.
+Equipamento 0020012654: Tempo de envio 0:00:10.273429: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:25.516600.
+Equipamento 0020012655: Tempo de envio 0:00:10.665380: Última captura na hora 2024-10-24 13:29:51: Tempo desde a última captura 0:00:13.534597.
+Equipamento 0020012630: Tempo de envio 0:00:14.265666: Última captura na hora 2024-10-24 13:28:36: Tempo desde a última captura 0:01:28.550673.
+Equipamento 0020022630: Tempo de envio 0:00:09.621584: Última captura na hora 2024-10-24 13:29:01: Tempo desde a última captura 0:01:03.578232.
+Equipamento 0020012631: Tempo de envio 0:00:13.597584: Última captura na hora 2024-10-24 13:28:57: Tempo desde a última captura 0:01:07.596532.
+Equipamento 0020022631: Tempo de envio 0:00:11.601576: Última captura na hora 2024-10-24 13:29:01: Tempo desde a última captura 0:01:03.622887.
+Equipamento 0020012629: Pasta da hora inexistente.
+Equipamento 0020012651: Tempo de envio 0:00:19.525377: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:21.656347.
+Equipamento 0020015023: Tempo de envio 0:00:10.857447: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:30.702826.
+Equipamento 0020025023: Tempo de envio 0:00:09.445373: Última captura na hora 2024-10-24 13:29:54: Tempo desde a última captura 0:00:10.728979.
+Equipamento 0020015024: Tempo de envio 0:00:09.985727: Última captura na hora 2024-10-24 13:28:25: Tempo desde a última captura 0:01:39.738058.
+Equipamento 0020025024: Tempo de envio 0:00:12.565388: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:17.746160.
+Equipamento 0020015025: Tempo de envio 0:00:08.425373: Última captura na hora 2024-10-24 13:29:55: Tempo desde a última captura 0:00:09.846280.
+Equipamento 0020025025: Tempo de envio 0:00:12.569388: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:17.878836.
+Equipamento 0020015026: Pasta da hora inexistente.
+Equipamento 0020025026: Pasta da hora inexistente.
+Equipamento 0020015027: Pasta da hora inexistente.
+Equipamento 0020025027: Pasta da hora inexistente.
+Equipamento 0020012665: Tempo de envio 0:00:08.977419: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:21.897883.
+Equipamento 0020012666: Tempo de envio 0:00:08.473409: Última captura na hora 2024-10-24 13:29:46: Tempo desde a última captura 0:00:18.914087.
+Equipamento 0020012641: Tempo de envio 0:00:17.037723: Última captura na hora 2024-10-24 13:28:19: Tempo desde a última captura 0:01:45.951310.
+Equipamento 0020022641: Tempo de envio 0:00:16.309782: Última captura na hora 2024-10-24 13:28:05: Tempo desde a última captura 0:01:59.966561.
+Equipamento 0020012642: Tempo de envio 0:00:11.633848: Última captura na hora 2024-10-24 13:27:53: Tempo desde a última captura 0:02:11.981731.
+Equipamento 0020022642: Pasta da hora inexistente.
+Equipamento 0020016052: Tempo de envio 0:00:08.357705: Última captura na hora 2024-10-24 13:28:32: Tempo desde a última captura 0:01:33.052090.
+Equipamento 0020011866: Pasta da hora inexistente.
+Equipamento 0020021866: Pasta da hora inexistente.
+Equipamento 0020011867: Tempo de envio 0:00:33.617520: Última captura na hora 2024-10-24 13:28:53: Tempo desde a última captura 0:01:12.063088.
+Equipamento 0020021867: Tempo de envio 0:00:26.741544: Última captura na hora 2024-10-24 13:28:54: Tempo desde a última captura 0:01:11.073092.
+Equipamento 0020011864: Pasta da hora inexistente.
+Equipamento 0020021865: Pasta da hora inexistente.
+Equipamento 0020011924: Tempo de envio 0:00:07.289370: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:08.089093.
+Equipamento 0020011948: Tempo de envio 0:00:15.289370: Última captura na hora 2024-10-24 13:29:49: Tempo desde a última captura 0:00:16.131264.
+Equipamento 0020011857: Tempo de envio 0:00:07.321673: Última captura na hora 2024-10-24 13:28:41: Tempo desde a última captura 0:01:24.174289.
+Equipamento 0020021857: Tempo de envio 0:00:07.677636: Última captura na hora 2024-10-24 13:28:50: Tempo desde a última captura 0:01:15.212732.
+Equipamento 0020011858: Tempo de envio 0:00:06.445657: Última captura na hora 2024-10-24 13:28:46: Tempo desde a última captura 0:01:19.257443.
+Equipamento 0020021858: Tempo de envio 0:00:06.485656: Última captura na hora 2024-10-24 13:28:46: Tempo desde a última captura 0:01:19.320366.
+Equipamento 0020011861: Tempo de envio 0:00:07.285369: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:08.367935.
+Equipamento 0020021861: Tempo de envio 0:00:08.357369: Última captura na hora 2024-10-24 13:29:56: Tempo desde a última captura 0:00:09.405093.
+Equipamento 0020035040: Tempo de envio 0:00:07.093422: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:21.482454.
+Equipamento 0020045040: Tempo de envio 0:00:07.257406: Última captura na hora 2024-10-24 13:29:48: Tempo desde a última captura 0:00:17.557323.
+Equipamento 0020055040: Tempo de envio 0:00:08.753380: Última captura na hora 2024-10-24 13:29:53: Tempo desde a última captura 0:00:12.608700.
+Equipamento 0020015041: Tempo de envio 0:00:11.717600: Última captura na hora 2024-10-24 13:28:55: Tempo desde a última captura 0:01:10.666503.
+Equipamento 0020025041: Tempo de envio 0:00:11.857599: Última captura na hora 2024-10-24 13:28:55: Tempo desde a última captura 0:01:10.726398.
+Equipamento 0020065042: Tempo de envio 0:00:08.465373: Última captura na hora 2024-10-24 13:29:55: Tempo desde a última captura 0:00:10.776094.
+Equipamento 0020075042: Tempo de envio 0:00:07.465373: Última captura na hora 2024-10-24 13:29:56: Tempo desde a última captura 0:00:09.822386.
+Equipamento 0020011872: Pasta da hora inexistente.
+Equipamento 0020021872: Pasta da hora inexistente.
+Equipamento 0020011873: Tempo de envio 0:00:09.965471: Última captura na hora 2024-10-24 13:29:29: Tempo desde a última captura 0:00:36.832512.
+Equipamento 0020021873: Tempo de envio 0:00:25.269717: Última captura na hora 2024-10-24 13:28:12: Tempo desde a última captura 0:01:53.846507.
+Equipamento 0020015038: Tempo de envio 0:00:13.309369: Última captura na hora 2024-10-24 13:29:51: Tempo desde a última captura 0:00:14.880699.
+Equipamento 0020025038: Tempo de envio 0:00:13.745380: Última captura na hora 2024-10-24 13:29:48: Tempo desde a última captura 0:00:17.917051.
+Equipamento 0020015039: Tempo de envio 0:00:09.489408: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:20.956846.
+Equipamento 0020025039: Tempo de envio 0:00:08.361425: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:23.991248.
+Equipamento 0020011853: Tempo de envio 0:00:04.613380: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:09.028654.
+Equipamento 0020011854: Tempo de envio 0:00:05.613380: Última captura na hora 2024-10-24 13:29:56: Tempo desde a última captura 0:00:10.062232.
+Equipamento 0020011868: Tempo de envio 0:00:14.249366: Última captura na hora 2024-10-24 13:29:51: Tempo desde a última captura 0:00:15.074316.
+Equipamento 0020011869: Pasta da hora inexistente.
+Equipamento 0020011852: Tempo de envio 0:00:07.917511: Última captura na hora 2024-10-24 13:29:21: Tempo desde a última captura 0:00:45.088615.
+Equipamento 0020011876: Tempo de envio 0:00:19.997442: Última captura na hora 2024-10-24 13:29:26: Tempo desde a última captura 0:00:40.101709.
+Equipamento 0020011862: Tempo de envio 0:00:06.905527: Última captura na hora 2024-10-24 13:29:18: Tempo desde a última captura 0:00:48.109796.
+Equipamento 0020021862: Tempo de envio 0:00:09.289433: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:27.118024.
+Equipamento 0020011863: Pasta da hora inexistente.
+Equipamento 0020021863: Pasta da hora inexistente.
+Equipamento 0020011881: Tempo de envio 0:00:05.661380: Última captura na hora 2024-10-24 13:29:56: Tempo desde a última captura 0:00:10.180036.
+Equipamento 0020021881: Tempo de envio 0:00:08.357369: Última captura na hora 2024-10-24 13:29:56: Tempo desde a última captura 0:00:10.264073.
+Equipamento 0020011882: Tempo de envio 0:00:06.221434: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:24.291569.
+Equipamento 0020021882: Tempo de envio 0:00:04.721380: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:09.320903.
+Equipamento 0020011883: Tempo de envio 0:00:05.629364: Última captura na hora 2024-10-24 13:30:00: Tempo desde a última captura 0:00:06.397616.
+Equipamento 0020021883: Tempo de envio 0:00:05.697372: Última captura na hora 2024-10-24 13:29:58: Tempo desde a última captura 0:00:08.480448.
+Equipamento 0020011884: Tempo de envio 0:00:05.661380: Última captura na hora 2024-10-24 13:29:56: Tempo desde a última captura 0:00:10.507108.
+Equipamento 0020021884: Tempo de envio 0:00:05.357369: Última captura na hora 2024-10-24 13:29:59: Tempo desde a última captura 0:00:07.570055.
+Equipamento 0020011936: Pasta da hora inexistente.
+Equipamento 0020021936: Pasta da hora inexistente.
+Equipamento 0020011937: Pasta da hora inexistente.
+Equipamento 0020011877: Tempo de envio 0:00:05.629364: Última captura na hora 2024-10-24 13:30:00: Tempo desde a última captura 0:00:06.650279.
+Equipamento 0020021877: Tempo de envio 0:00:06.693372: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:09.755910.
+Equipamento 0020011878: Tempo de envio 0:00:08.161406: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:19.771346.
+Equipamento 0020021878: Tempo de envio 0:00:08.373397: Última captura na hora 2024-10-24 13:29:49: Tempo desde a última captura 0:00:17.809949.
+Equipamento 0020011879: Tempo de envio 0:04:23.221434: Última captura na hora 2024-10-24 13:25:25: Tempo desde a última captura 0:04:41.824158.
+Equipamento 0020021879: Tempo de envio 0:04:33.285366: Última captura na hora 2024-10-24 13:25:32: Tempo desde a última captura 0:04:34.848548.
+Equipamento 0020011880: Tempo de envio 0:00:06.409389: Última captura na hora 2024-10-24 13:29:53: Tempo desde a última captura 0:00:13.909619.
+Equipamento 0020021880: Tempo de envio 0:00:07.693372: Última captura na hora 2024-10-24 13:29:56: Tempo desde a última captura 0:00:10.970545.
+Equipamento 0020011946: Pasta da hora inexistente.
+Equipamento 0020021946: Tempo de envio 0:00:23.701372: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:27.060696.
+Equipamento 0020011947: Pasta da hora inexistente.
+Equipamento 0020021947: Tempo de envio 0:01:08.437373: Última captura na hora 2024-10-24 13:28:55: Tempo desde a última captura 0:01:12.128990.
+Equipamento 0020011949: Tempo de envio 0:00:06.649372: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:10.200357.
+Equipamento 0020021949: Tempo de envio 0:00:07.289366: Última captura na hora 2024-10-24 13:29:58: Tempo desde a última captura 0:00:09.286032.
+Equipamento 0020011950: Tempo de envio 0:00:06.601396: Última captura na hora 2024-10-24 13:29:51: Tempo desde a última captura 0:00:16.329055.
+Equipamento 0020021950: Tempo de envio 0:00:07.289366: Última captura na hora 2024-10-24 13:29:58: Tempo desde a última captura 0:00:09.397035.
+Equipamento 0020011855: Tempo de envio 0:00:09.493637: Última captura na hora 2024-10-24 13:28:48: Tempo desde a última captura 0:01:19.424047.
+Equipamento 0020021855: Tempo de envio 0:00:10.429633: Última captura na hora 2024-10-24 13:28:48: Tempo desde a última captura 0:01:19.460056.
+Equipamento 0020015043: Tempo de envio 0:00:08.421389: Última captura na hora 2024-10-24 13:29:51: Tempo desde a última captura 0:00:16.505044.
+Equipamento 0020025043: Tempo de envio 0:00:08.601384: Última captura na hora 2024-10-24 13:29:52: Tempo desde a última captura 0:00:15.542048.
+Equipamento 0020015044: Pasta da hora inexistente.
+Equipamento 0020025044: Pasta da hora inexistente.
+Equipamento 0020011870: Tempo de envio 0:00:08.637360: Última captura na hora 2024-10-24 13:29:58: Tempo desde a última captura 0:00:09.557128.
+Equipamento 0020011871: Tempo de envio 0:00:08.637360: Última captura na hora 2024-10-24 13:29:58: Tempo desde a última captura 0:00:09.569061.
+Equipamento 0020011874: Tempo de envio 0:00:12.817475: Última captura na hora 2024-10-24 13:29:25: Tempo desde a última captura 0:00:42.580055.
+Equipamento 0020021874: Tempo de envio 0:00:13.089414: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:27.603587.
+Equipamento 0020011875: Tempo de envio 0:00:08.385389: Última captura na hora 2024-10-24 13:29:51: Tempo desde a última captura 0:00:16.615699.
+Equipamento 0020021875: Tempo de envio 0:00:08.541376: Última captura na hora 2024-10-24 13:29:54: Tempo desde a última captura 0:00:13.643451.
+Equipamento 0020011859: Tempo de envio 0:00:11.309453: Última captura na hora 2024-10-24 13:29:32: Tempo desde a última captura 0:00:35.656547.
+Equipamento 0020011860: Tempo de envio 0:00:09.309417: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:24.691168.
+Equipamento 0020011850: Tempo de envio 0:00:20.625364: Última captura na hora 2024-10-24 13:29:45: Tempo desde a última captura 0:00:22.702370.
+Equipamento 0020011851: Tempo de envio 0:00:18.729528: Última captura na hora 2024-10-24 13:29:06: Tempo desde a última captura 0:01:01.711578.
+Equipamento 0020011856: Tempo de envio 0:03:55.661564: Última captura na hora 2024-10-24 13:25:20: Tempo desde a última captura 0:04:47.722688.
+Equipamento 0020021856: Tempo de envio 0:04:12.241438: Última captura na hora 2024-10-24 13:25:35: Tempo desde a última captura 0:04:32.729848.
+Equipamento 0020013715: Tempo de envio 0:00:09.313453: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:33.738848.
+Equipamento 0020013716: Tempo de envio 0:00:08.673380: Última captura na hora 2024-10-24 13:29:53: Tempo desde a última captura 0:00:14.748149.
+Equipamento 0020013717: Tempo de envio 0:00:08.629380: Última captura na hora 2024-10-24 13:29:53: Tempo desde a última captura 0:00:14.757373.
+Equipamento 0020013718: Tempo de envio 0:00:08.373962: Última captura na hora 2024-10-24 13:27:28: Tempo desde a última captura 0:02:39.765511.
+Equipamento 0020013713: Tempo de envio 0:00:08.049423: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:24.773688.
+Equipamento 0020013714: Tempo de envio 0:00:10.905503: Última captura na hora 2024-10-24 13:29:20: Tempo desde a última captura 0:00:47.783865.
+Equipamento 0020013719: Pasta da hora inexistente.
+Equipamento 0020013720: Tempo de envio 0:00:09.261366: Última captura na hora 2024-10-24 13:29:56: Tempo desde a última captura 0:00:11.929947.
+Equipamento 0020013709: Tempo de envio 0:00:09.005751: Última captura na hora 2024-10-24 13:28:20: Tempo desde a última captura 0:01:47.975708.
+Equipamento 0020013710: Tempo de envio 0:00:07.489609: Última captura na hora 2024-10-24 13:28:57: Tempo desde a última captura 0:01:10.989775.
+Equipamento 0020013711: Tempo de envio 0:00:09.369393: Última captura na hora 2024-10-24 13:29:49: Tempo desde a última captura 0:00:19.011062.
+Equipamento 0020013712: Tempo de envio 0:00:08.369393: Última captura na hora 2024-10-24 13:29:50: Tempo desde a última captura 0:00:18.080204.
+Equipamento 0020013723: Tempo de envio 0:00:08.817507: Última captura na hora 2024-10-24 13:29:21: Tempo desde a última captura 0:00:47.115823.
+Equipamento 0020013724: Tempo de envio 0:00:16.049423: Última captura na hora 2024-10-24 13:29:35: Tempo desde a última captura 0:00:33.129977.
+Equipamento 0020023724: Tempo de envio 0:00:08.681360: Última captura na hora 2024-10-24 13:29:58: Tempo desde a última captura 0:00:10.161477.
+Equipamento 0020013721: Tempo de envio 0:00:13.641364: Última captura na hora 2024-10-24 13:29:52: Tempo desde a última captura 0:00:16.210182.
+Equipamento 0020023721: Tempo de envio 0:00:10.557388: Última captura na hora 2024-10-24 13:29:49: Tempo desde a última captura 0:00:19.244923.
+Equipamento 0020013722: Tempo de envio 0:00:11.965531: Última captura na hora 2024-10-24 13:29:12: Tempo desde a última captura 0:00:56.259539.
+Equipamento 0020023722: Tempo de envio 0:00:12.561388: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:21.297206.
+Equipamento 0020012591: Tempo de envio 0:00:11.977419: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:28.305429.
+Equipamento 0020012592: Tempo de envio 0:00:11.413389: Última captura na hora 2024-10-24 13:29:48: Tempo desde a última captura 0:00:20.314564.
+Equipamento 0020012593: Tempo de envio 0:00:07.850012: Última captura na hora 2024-10-24 13:27:16: Tempo desde a última captura 0:02:52.323665.
+Equipamento 0020012594: Tempo de envio 0:00:09.293369: Última captura na hora 2024-10-24 13:29:55: Tempo desde a última captura 0:00:13.330879.
+Equipamento 0020012609: Tempo de envio 0:00:09.301433: Última captura na hora 2024-10-24 13:29:39: Tempo desde a última captura 0:00:29.338887.
+Equipamento 0020012610: Tempo de envio 0:00:08.861495: Última captura na hora 2024-10-24 13:29:24: Tempo desde a última captura 0:00:44.345892.
+Equipamento 0020012574: Pasta da hora inexistente.
+Equipamento 0020012575: Pasta da hora inexistente.
+Equipamento 0020022575: Pasta da hora inexistente.
+Equipamento 0020012621: Pasta da hora inexistente.
+Equipamento 0020012622: Pasta da hora inexistente.
+Equipamento 0020022622: Pasta da hora inexistente.
+Equipamento 0020012569: Tempo de envio 0:00:12.413389: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:21.397559.
+Equipamento 0020022569: Tempo de envio 0:00:13.489389: Última captura na hora 2024-10-24 13:29:46: Tempo desde a última captura 0:00:22.432891.
+Equipamento 0020012570: Pasta da hora inexistente.
+Equipamento 0020012571: Tempo de envio 0:00:06.601396: Última captura na hora 2024-10-24 13:29:51: Tempo desde a última captura 0:00:17.462398.
+Equipamento 0020022571: Tempo de envio 0:00:11.977451: Última captura na hora 2024-10-24 13:29:32: Tempo desde a última captura 0:00:36.531259.
+Equipamento 0020012595: Pasta da hora inexistente.
+Equipamento 0020012596: Pasta da hora inexistente.
+Equipamento 0020015030: Tempo de envio 0:00:09.705380: Última captura na hora 2024-10-24 13:29:52: Tempo desde a última captura 0:00:16.568843.
+Equipamento 0020015031: Tempo de envio 0:00:08.265366: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:11.605477.
+Equipamento 0020012582: Pasta da hora inexistente.
+Equipamento 0020022582: Pasta da hora inexistente.
+Equipamento 0020012578: Tempo de envio 0:00:15.509404: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:28.620600.
+Equipamento 0020022578: Pasta da hora inexistente.
+Equipamento 0020012579: Pasta da hora inexistente.
+Equipamento 0020022579: Pasta da hora inexistente.
+Equipamento 0020012572: Tempo de envio 0:00:09.417373: Última captura na hora 2024-10-24 13:29:54: Tempo desde a última captura 0:00:14.658910.
+Equipamento 0020022572: Tempo de envio 0:00:09.373397: Última captura na hora 2024-10-24 13:29:48: Tempo desde a última captura 0:00:20.670851.
+Equipamento 0020012573: Pasta da hora inexistente.
+Equipamento 0020022573: Pasta da hora inexistente.
+Equipamento 0020012623: Pasta da hora inexistente.
+Equipamento 0020022623: Pasta da hora inexistente.
+Equipamento 0020012585: Tempo de envio 0:00:13.141450: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:37.705326.
+Equipamento 0020022585: Tempo de envio 0:00:10.149822: Última captura na hora 2024-10-24 13:28:01: Tempo desde a última captura 0:02:07.718693.
+Equipamento 0020012586: Tempo de envio 0:00:07.001426: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:25.730807.
+Equipamento 0020022586: Tempo de envio 0:00:08.345417: Última captura na hora 2024-10-24 13:29:44: Tempo desde a última captura 0:00:24.734812.
+Equipamento 0020012626: Tempo de envio 0:00:11.141450: Última captura na hora 2024-10-24 13:29:33: Tempo desde a última captura 0:00:35.747800.
+Equipamento 0020012619: Tempo de envio 0:00:10.057414: Última captura na hora 2024-10-24 13:29:43: Tempo desde a última captura 0:00:25.772711.
+Equipamento 0020012620: Tempo de envio 0:00:08.181478: Última captura na hora 2024-10-24 13:29:29: Tempo desde a última captura 0:00:39.821434.
+Equipamento 0020012583: Tempo de envio 0:00:08.297397: Última captura na hora 2024-10-24 13:29:49: Tempo desde a última captura 0:00:19.827508.
+Equipamento 0020022583: Tempo de envio 0:00:06.601604: Última captura na hora 2024-10-24 13:28:59: Tempo desde a última captura 0:01:09.844841.
+Equipamento 0020012584: Tempo de envio 0:00:08.845487: Última captura na hora 2024-10-24 13:29:26: Tempo desde a última captura 0:00:42.869057.
+Equipamento 0020022584: Tempo de envio 0:00:21.881487: Última captura na hora 2024-10-24 13:29:13: Tempo desde a última captura 0:00:55.875063.
+Equipamento 0020012559: Pasta da hora inexistente.
+Equipamento 0020022559: Pasta da hora inexistente.
+Equipamento 0020012560: Pasta da hora inexistente.
+Equipamento 0020022560: Pasta da hora inexistente.
+Equipamento 0020012561: Pasta da hora inexistente.
+Equipamento 0020022561: Pasta da hora inexistente.
+Equipamento 0020012562: Pasta da hora inexistente.
+Equipamento 0020022562: Pasta da hora inexistente.
+Equipamento 0020012563: Pasta da hora inexistente.
+Equipamento 0020022563: Pasta da hora inexistente.
+Equipamento 0020012564: Pasta da hora inexistente.
+Equipamento 0020012565: Pasta da hora inexistente.
+Equipamento 0020022565: Pasta da hora inexistente.
+Equipamento 0020012566: Pasta da hora inexistente.
+Equipamento 0020022566: Pasta da hora inexistente.
+Equipamento 0020012587: Pasta da hora inexistente.
+Equipamento 0020022587: Pasta da hora inexistente.
+Equipamento 0020012588: Pasta da hora inexistente.
+Equipamento 0020012589: Pasta da hora inexistente.
+Equipamento 0020012590: Pasta da hora inexistente.
+Equipamento 0020022590: Pasta da hora inexistente.
+Equipamento 0020015061: Pasta da hora inexistente.
+Equipamento 0020025061: Pasta da hora inexistente.
+Equipamento 0020015062: Pasta da hora inexistente.
+Equipamento 0020025062: Pasta da hora inexistente.
+Equipamento 0020012580: Tempo de envio 0:00:16.841535: Última captura na hora 2024-10-24 13:29:06: Tempo desde a última captura 0:01:03.084069.
+Equipamento 0020022580: Tempo de envio 0:00:25.493389: Última captura na hora 2024-10-24 13:29:34: Tempo desde a última captura 0:00:35.097405.
+Equipamento 0020012581: Tempo de envio 0:00:07.565368: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:12.104647.
+Equipamento 0020022581: Tempo de envio 0:00:08.065470: Última captura na hora 2024-10-24 13:29:31: Tempo desde a última captura 0:00:38.116833.
+Equipamento 0020012616: Tempo de envio 0:00:26.837459: Última captura na hora 2024-10-24 13:29:15: Tempo desde a última captura 0:00:54.129015.
+Equipamento 0020012617: Tempo de envio 0:00:35.241718: Última captura na hora 2024-10-24 13:28:02: Tempo desde a última captura 0:02:07.136025.
+Equipamento 0020012618: Tempo de envio 0:00:11.505593: Última captura na hora 2024-10-24 13:28:57: Tempo desde a última captura 0:01:12.147298.
+Equipamento 0020012611: Tempo de envio 0:00:09.633364: Última captura na hora 2024-10-24 13:29:56: Tempo desde a última captura 0:00:13.158423.
+Equipamento 0020012612: Tempo de envio 0:00:12.069730: Última captura na hora 2024-10-24 13:28:22: Tempo desde a última captura 0:01:47.171686.
+Equipamento 0020012613: Tempo de envio 0:00:12.057414: Última captura na hora 2024-10-24 13:29:41: Tempo desde a última captura 0:00:28.184933.
+Equipamento 0020012614: Tempo de envio 0:00:07.221362: Última captura na hora 2024-10-24 13:29:59: Tempo desde a última captura 0:00:10.201206.
+Equipamento 0020015034: Tempo de envio 0:00:08.025426: Última captura na hora 2024-10-24 13:29:42: Tempo desde a última captura 0:00:27.228402.
+Equipamento 0020015035: Tempo de envio 0:00:07.769539: Última captura na hora 2024-10-24 13:29:14: Tempo desde a última captura 0:00:55.236406.
+Equipamento 0020015032: Tempo de envio 0:00:12.589877: Última captura na hora 2024-10-24 13:27:45: Tempo desde a última captura 0:02:24.244406.
+Equipamento 0020015033: Pasta da hora inexistente.
+Equipamento 0020012576: Pasta da hora inexistente.
+Equipamento 0020022576: Pasta da hora inexistente.
+Equipamento 0020012577: Pasta da hora inexistente.
+Equipamento 0020022577: Pasta da hora inexistente.
+Equipamento 0020012624: Pasta da hora inexistente.
+Equipamento 0020012625: Tempo de envio 0:00:11.977419: Última captura na hora 2024-10-24 13:29:40: Tempo desde a última captura 0:00:29.291831.
+Equipamento 0020012567: Tempo de envio 0:00:08.937451: Última captura na hora 2024-10-24 13:29:35: Tempo desde a última captura 0:00:34.309221.
+Equipamento 0020022567: Tempo de envio 0:00:11.577376: Última captura na hora 2024-10-24 13:29:51: Tempo desde a última captura 0:00:18.342899.
+Equipamento 0020012568: Tempo de envio 0:00:10.521377: Última captura na hora 2024-10-24 13:29:52: Tempo desde a última captura 0:00:17.353989.
+Equipamento 0020022568: Tempo de envio 0:00:09.577376: Última captura na hora 2024-10-24 13:29:53: Tempo desde a última captura 0:00:16.385667.
+Equipamento 0020012597: Tempo de envio 0:00:09.177402: Última captura na hora 2024-10-24 13:29:47: Tempo desde a última captura 0:00:22.397799.
+Equipamento 0020012598: Tempo de envio 0:00:08.525352: Última captura na hora 2024-10-24 13:30:00: Tempo desde a última captura 0:00:09.417228.
+Equipamento 0020022598: Pasta da hora inexistente.
+Equipamento 0020012557: Pasta da hora inexistente.
+Equipamento 0020012558: Pasta da hora inexistente.
+Equipamento 0020013772: Tempo de envio 0:00:07.677380: Última captura na hora 2024-10-24 13:29:54: Tempo desde a última captura 0:00:15.451690.
+Equipamento 0020023772: Tempo de envio 0:00:09.581352: Última captura na hora 2024-10-24 13:29:59: Tempo desde a última captura 0:00:10.485415.
+Equipamento 0020013773: Tempo de envio 0:00:09.541353: Última captura na hora 2024-10-24 13:29:59: Tempo desde a última captura 0:00:10.521843.
+Equipamento 0020023773: Tempo de envio 0:00:09.681360: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:12.564563.
+Equipamento 0020013779: Tempo de envio 0:00:09.541404: Última captura na hora 2024-10-24 13:29:46: Tempo desde a última captura 0:00:23.612204.
+Equipamento 0020023779: Tempo de envio 0:00:07.361369: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:12.655936.
+Equipamento 0020013780: Tempo de envio 0:00:07.305369: Última captura na hora 2024-10-24 13:29:57: Tempo desde a última captura 0:00:12.704766.
